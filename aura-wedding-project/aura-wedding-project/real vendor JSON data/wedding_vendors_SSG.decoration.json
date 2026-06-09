@@ -1,0 +1,5907 @@
+[{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e23f"
+  },
+  "businessName": "I Think Events",
+  "businessType": "decoration",
+  "description": "I Think Events is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 154253,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:58.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e240"
+  },
+  "businessName": "Agrawal Decorators",
+  "businessType": "decoration",
+  "description": "Agrawal Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 150976,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:58.768Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e241"
+  },
+  "businessName": "Ambience Event Management",
+  "businessType": "decoration",
+  "description": "Ambience Event Management is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 197840,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:58.808Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e242"
+  },
+  "businessName": "Gujarat Sound and Light Decoration",
+  "businessType": "decoration",
+  "description": "Gujarat Sound and Light Decoration is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 86915,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:58.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e243"
+  },
+  "businessName": "SHREE GANESH DECORATION",
+  "businessType": "decoration",
+  "description": "SHREE GANESH DECORATION is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 169384,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:58.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e244"
+  },
+  "businessName": "Mahi Events",
+  "businessType": "decoration",
+  "description": "Mahi Events is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 189078,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:58.915Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e245"
+  },
+  "businessName": "Anchor Hardik Vogue Events and Entertainment",
+  "businessType": "decoration",
+  "description": "Anchor Hardik Vogue Events and Entertainment is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 134011,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:58.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e246"
+  },
+  "businessName": "Omkar Decoration",
+  "businessType": "decoration",
+  "description": "Omkar Decoration is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 157881,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.021Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e247"
+  },
+  "businessName": "Orchid Florist",
+  "businessType": "decoration",
+  "description": "Orchid Florist is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 74192,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.056Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e248"
+  },
+  "businessName": "Vivek Decorators",
+  "businessType": "decoration",
+  "description": "Vivek Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 68426,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.096Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e249"
+  },
+  "businessName": "Ashok Hall Decorators",
+  "businessType": "decoration",
+  "description": "Ashok Hall Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 93296,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.151Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e24a"
+  },
+  "businessName": "1920 Event Organisers",
+  "businessType": "decoration",
+  "description": "1920 Event Organisers is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 157008,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e24b"
+  },
+  "businessName": "EYE 4 Event",
+  "businessType": "decoration",
+  "description": "EYE 4 Event is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22122,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.224Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e24c"
+  },
+  "businessName": "Deco Vision India",
+  "businessType": "decoration",
+  "description": "Deco Vision India is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 39961,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.260Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e24d"
+  },
+  "businessName": "MV Events",
+  "businessType": "decoration",
+  "description": "MV Events is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26875,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e24e"
+  },
+  "businessName": "Dream Utsav",
+  "businessType": "decoration",
+  "description": "Dream Utsav is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 83854,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e24f"
+  },
+  "businessName": "Mahajan Caterers & Decorators",
+  "businessType": "decoration",
+  "description": "Mahajan Caterers & Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 95170,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.411Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e250"
+  },
+  "businessName": "Baccha Party",
+  "businessType": "decoration",
+  "description": "Baccha Party is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 56873,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e251"
+  },
+  "businessName": "Ramdev Decorators",
+  "businessType": "decoration",
+  "description": "Ramdev Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 179614,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e252"
+  },
+  "businessName": "Patel Light & Mandap Decorators",
+  "businessType": "decoration",
+  "description": "Patel Light & Mandap Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69926,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.754Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e253"
+  },
+  "businessName": "Jay Shankar Mandap Decoration",
+  "businessType": "decoration",
+  "description": "Jay Shankar Mandap Decoration is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 111179,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:59.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e254"
+  },
+  "businessName": "Sadhi Krupa Decorators",
+  "businessType": "decoration",
+  "description": "Sadhi Krupa Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 74254,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e255"
+  },
+  "businessName": "Wedding Heaven",
+  "businessType": "decoration",
+  "description": "Wedding Heaven is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 155082,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e256"
+  },
+  "businessName": "Tomar Flower Events",
+  "businessType": "decoration",
+  "description": "Tomar Flower Events is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 119860,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.293Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e257"
+  },
+  "businessName": "Hetal Events",
+  "businessType": "decoration",
+  "description": "Hetal Events is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 106848,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.424Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e258"
+  },
+  "businessName": "Shivhari Hospitality",
+  "businessType": "decoration",
+  "description": "Shivhari Hospitality is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 76941,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e259"
+  },
+  "businessName": "Poonam Florist",
+  "businessType": "decoration",
+  "description": "Poonam Florist is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 130663,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.680Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e25a"
+  },
+  "businessName": "Jay Ambe Decorators",
+  "businessType": "decoration",
+  "description": "Jay Ambe Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 192411,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.757Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e25b"
+  },
+  "businessName": "Sonu Flower & Lotus Wholesaler",
+  "businessType": "decoration",
+  "description": "Sonu Flower & Lotus Wholesaler is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 190074,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.828Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e25c"
+  },
+  "businessName": "Shriyam Party Plot",
+  "businessType": "decoration",
+  "description": "Shriyam Party Plot is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 142763,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e25d"
+  },
+  "businessName": "Maa Krupa Decorators",
+  "businessType": "decoration",
+  "description": "Maa Krupa Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 132947,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e25e"
+  },
+  "businessName": "Shreeji Car Decoration",
+  "businessType": "decoration",
+  "description": "Shreeji Car Decoration is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 79020,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:00.966Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e25f"
+  },
+  "businessName": "Shreenathji Sajavat",
+  "businessType": "decoration",
+  "description": "Shreenathji Sajavat is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40883,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.019Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e260"
+  },
+  "businessName": "D-effects Dance Studio",
+  "businessType": "decoration",
+  "description": "D-effects Dance Studio is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45279,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e261"
+  },
+  "businessName": "Akshar AIR Link",
+  "businessType": "decoration",
+  "description": "Akshar AIR Link is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 103509,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.160Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e262"
+  },
+  "businessName": "Azad Events and Entertainment",
+  "businessType": "decoration",
+  "description": "Azad Events and Entertainment is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 93013,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e263"
+  },
+  "businessName": "Lotusflorist",
+  "businessType": "decoration",
+  "description": "Lotusflorist is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 114528,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.383Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e264"
+  },
+  "businessName": "Chetan B Play Zone",
+  "businessType": "decoration",
+  "description": "Chetan B Play Zone is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 135112,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.493Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e265"
+  },
+  "businessName": "Rameshbhai Babulal Mandapwala & Shantivan Party Plot Jetalpur",
+  "businessType": "decoration",
+  "description": "Rameshbhai Babulal Mandapwala & Shantivan Party Plot Jetalpur is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 173791,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e266"
+  },
+  "businessName": "Gajanand Decorators & Caterers",
+  "businessType": "decoration",
+  "description": "Gajanand Decorators & Caterers is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 32778,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e267"
+  },
+  "businessName": "Bhagyoday Decorators and Caterers",
+  "businessType": "decoration",
+  "description": "Bhagyoday Decorators and Caterers is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69046,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e268"
+  },
+  "businessName": "Dream Decor",
+  "businessType": "decoration",
+  "description": "Dream Decor is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 145079,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.795Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e269"
+  },
+  "businessName": "The Karmanya Concept",
+  "businessType": "decoration",
+  "description": "The Karmanya Concept is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 53144,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.827Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e26a"
+  },
+  "businessName": "Mh Decoration",
+  "businessType": "decoration",
+  "description": "Mh Decoration is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31290,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.859Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e26b"
+  },
+  "businessName": "Harsh Flower Decoration",
+  "businessType": "decoration",
+  "description": "Harsh Flower Decoration is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 30649,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.904Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e26c"
+  },
+  "businessName": "Iscon Decorators",
+  "businessType": "decoration",
+  "description": "Iscon Decorators is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 33189,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:01.971Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e26d"
+  },
+  "businessName": "Shree Ganesh Decoration",
+  "businessType": "decoration",
+  "description": "Shree Ganesh Decoration is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 103805,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:02.036Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e26e"
+  },
+  "businessName": "Shree Shiv Shakti Decoration",
+  "businessType": "decoration",
+  "description": "Shree Shiv Shakti Decoration is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 119683,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:02.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e26f"
+  },
+  "businessName": "Anjaney Moments",
+  "businessType": "decoration",
+  "description": "Anjaney Moments is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 144954,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:02.120Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e270"
+  },
+  "businessName": "Bhagvati Light Decoration",
+  "businessType": "decoration",
+  "description": "Bhagvati Light Decoration is a premium decoration service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 125776,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:02.157Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e271"
+  },
+  "businessName": "RR Decoration",
+  "businessType": "decoration",
+  "description": "RR Decoration is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 170837,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:29.556Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e272"
+  },
+  "businessName": "Shree Khodalraj Mandap Decoration",
+  "businessType": "decoration",
+  "description": "Shree Khodalraj Mandap Decoration is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 169401,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:29.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e273"
+  },
+  "businessName": "Creative Eventwala",
+  "businessType": "decoration",
+  "description": "Creative Eventwala is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 149406,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:29.830Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e274"
+  },
+  "businessName": "Shree Ram Event and Caterers",
+  "businessType": "decoration",
+  "description": "Shree Ram Event and Caterers is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 89642,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:29.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e275"
+  },
+  "businessName": "Red Events & Celebrity Management",
+  "businessType": "decoration",
+  "description": "Red Events & Celebrity Management is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 118377,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:30.086Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e276"
+  },
+  "businessName": "Soni Events",
+  "businessType": "decoration",
+  "description": "Soni Events is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 84123,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:30.179Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e277"
+  },
+  "businessName": "DJ SHUBHAM & ALL EVENTS MANAGEMENT",
+  "businessType": "decoration",
+  "description": "DJ SHUBHAM & ALL EVENTS MANAGEMENT is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 141712,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:30.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e278"
+  },
+  "businessName": "Sai Sonu Venus Sound",
+  "businessType": "decoration",
+  "description": "Sai Sonu Venus Sound is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 129884,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:30.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e279"
+  },
+  "businessName": "Festkart",
+  "businessType": "decoration",
+  "description": "Festkart is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 133689,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:30.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e27a"
+  },
+  "businessName": "Premium Events",
+  "businessType": "decoration",
+  "description": "Premium Events is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 167800,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:30.867Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e27b"
+  },
+  "businessName": "Anchor Rahul Budhani",
+  "businessType": "decoration",
+  "description": "Anchor Rahul Budhani is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 89164,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:31.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e27c"
+  },
+  "businessName": "Ashirvad Mandap & Event Decorations",
+  "businessType": "decoration",
+  "description": "Ashirvad Mandap & Event Decorations is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 195111,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:31.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e27d"
+  },
+  "businessName": "Maruti Event",
+  "businessType": "decoration",
+  "description": "Maruti Event is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 117783,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:31.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e27e"
+  },
+  "businessName": "Mr Dream Events",
+  "businessType": "decoration",
+  "description": "Mr Dream Events is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 101390,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:31.463Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e27f"
+  },
+  "businessName": "Khodiyar Seat Cover & Car Decor",
+  "businessType": "decoration",
+  "description": "Khodiyar Seat Cover & Car Decor is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 117599,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:31.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e280"
+  },
+  "businessName": "Bk Dholi Boys Entertainment",
+  "businessType": "decoration",
+  "description": "Bk Dholi Boys Entertainment is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 132247,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:31.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e281"
+  },
+  "businessName": "Magician B Lal Ritesh Brambhatt",
+  "businessType": "decoration",
+  "description": "Magician B Lal Ritesh Brambhatt is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 152885,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:31.887Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e282"
+  },
+  "businessName": "Ashirwad Decoration",
+  "businessType": "decoration",
+  "description": "Ashirwad Decoration is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 78817,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e283"
+  },
+  "businessName": "Jay Flowers",
+  "businessType": "decoration",
+  "description": "Jay Flowers is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 160072,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.156Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e284"
+  },
+  "businessName": "M A Decorators",
+  "businessType": "decoration",
+  "description": "M A Decorators is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 38142,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.253Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e285"
+  },
+  "businessName": "Avasar Balloon Decoration",
+  "businessType": "decoration",
+  "description": "Avasar Balloon Decoration is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47964,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e286"
+  },
+  "businessName": "Weddest INDIA",
+  "businessType": "decoration",
+  "description": "Weddest INDIA is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 136515,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.456Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e287"
+  },
+  "businessName": "Shreeji Decoration Stores",
+  "businessType": "decoration",
+  "description": "Shreeji Decoration Stores is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 191646,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.547Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e288"
+  },
+  "businessName": "Punjabi Dhol And Entertainment Group",
+  "businessType": "decoration",
+  "description": "Punjabi Dhol And Entertainment Group is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 136367,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e289"
+  },
+  "businessName": "All In One Event",
+  "businessType": "decoration",
+  "description": "All In One Event is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 60813,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e28a"
+  },
+  "businessName": "Nyra Decor",
+  "businessType": "decoration",
+  "description": "Nyra Decor is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 187018,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.818Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e28b"
+  },
+  "businessName": "Classic Weddings & Events",
+  "businessType": "decoration",
+  "description": "Classic Weddings & Events is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 107953,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.914Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e28c"
+  },
+  "businessName": "Bombay Star Nite Musical Event Entertainment",
+  "businessType": "decoration",
+  "description": "Bombay Star Nite Musical Event Entertainment is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 195119,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:32.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e28e"
+  },
+  "businessName": "Chander Sound Services & Decorator",
+  "businessType": "decoration",
+  "description": "Chander Sound Services & Decorator is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 113032,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e28f"
+  },
+  "businessName": "Distinkt Happeniings",
+  "businessType": "decoration",
+  "description": "Distinkt Happeniings is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 75326,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.149Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e290"
+  },
+  "businessName": "Devangi Farm & Mandap Service",
+  "businessType": "decoration",
+  "description": "Devangi Farm & Mandap Service is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 74042,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e291"
+  },
+  "businessName": "Car Lounge",
+  "businessType": "decoration",
+  "description": "Car Lounge is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 38487,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.214Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e292"
+  },
+  "businessName": "Magical Flowers Decorator and Wedding Planners",
+  "businessType": "decoration",
+  "description": "Magical Flowers Decorator and Wedding Planners is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 20844,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.250Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e293"
+  },
+  "businessName": "Leo Entertainment (Dj Tushar)",
+  "businessType": "decoration",
+  "description": "Leo Entertainment (Dj Tushar) is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 128131,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.300Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e294"
+  },
+  "businessName": "Soham Mandap Decorators",
+  "businessType": "decoration",
+  "description": "Soham Mandap Decorators is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 56894,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e295"
+  },
+  "businessName": "Jay Krishna Decoration",
+  "businessType": "decoration",
+  "description": "Jay Krishna Decoration is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 144223,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.384Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e296"
+  },
+  "businessName": "Destiny Mandap & Caterers",
+  "businessType": "decoration",
+  "description": "Destiny Mandap & Caterers is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 138515,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.426Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e297"
+  },
+  "businessName": "Event Era",
+  "businessType": "decoration",
+  "description": "Event Era is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 65645,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e298"
+  },
+  "businessName": "Heaven Villa Resort",
+  "businessType": "decoration",
+  "description": "Heaven Villa Resort is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 199421,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e299"
+  },
+  "businessName": "Ridhhi Mandap Decoration & Light Decoration Event Flower",
+  "businessType": "decoration",
+  "description": "Ridhhi Mandap Decoration & Light Decoration Event Flower is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 179783,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.553Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e29a"
+  },
+  "businessName": "Zagmag Light Decoration",
+  "businessType": "decoration",
+  "description": "Zagmag Light Decoration is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 86994,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e29b"
+  },
+  "businessName": "Kamalnath Decorative Collection",
+  "businessType": "decoration",
+  "description": "Kamalnath Decorative Collection is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51476,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.636Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e29c"
+  },
+  "businessName": "The Party Culture",
+  "businessType": "decoration",
+  "description": "The Party Culture is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 30925,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e29d"
+  },
+  "businessName": "White Collar Events",
+  "businessType": "decoration",
+  "description": "White Collar Events is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 71532,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.730Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e29e"
+  },
+  "businessName": "Money Event Planner",
+  "businessType": "decoration",
+  "description": "Money Event Planner is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 134096,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e29f"
+  },
+  "businessName": "Luxurious Car",
+  "businessType": "decoration",
+  "description": "Luxurious Car is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 118433,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a0"
+  },
+  "businessName": "Pooja D.J. Sound Caterers and Mandap",
+  "businessType": "decoration",
+  "description": "Pooja D.J. Sound Caterers and Mandap is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 142430,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.842Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a1"
+  },
+  "businessName": "Zoom Decorators",
+  "businessType": "decoration",
+  "description": "Zoom Decorators is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 166038,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a2"
+  },
+  "businessName": "Create My Event",
+  "businessType": "decoration",
+  "description": "Create My Event is a premium decoration service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 126726,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:04:33.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a3"
+  },
+  "businessName": "Av Balloon Decorators And Event",
+  "businessType": "decoration",
+  "description": "Av Balloon Decorators And Event is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 175734,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:00.735Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a4"
+  },
+  "businessName": "Admire Events",
+  "businessType": "decoration",
+  "description": "Admire Events is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44044,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:00.822Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a5"
+  },
+  "businessName": "VINAYAK EVENT AND BALLON DECORATION",
+  "businessType": "decoration",
+  "description": "VINAYAK EVENT AND BALLON DECORATION is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 64369,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:00.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a6"
+  },
+  "businessName": "ANANT MILAP EVENTS",
+  "businessType": "decoration",
+  "description": "ANANT MILAP EVENTS is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 62593,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:00.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a7"
+  },
+  "businessName": "Shreeji Event & Decor",
+  "businessType": "decoration",
+  "description": "Shreeji Event & Decor is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 183877,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:00.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a8"
+  },
+  "businessName": "Veriety Event",
+  "businessType": "decoration",
+  "description": "Veriety Event is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 166056,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.013Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2a9"
+  },
+  "businessName": "Almond Creations Private Limited",
+  "businessType": "decoration",
+  "description": "Almond Creations Private Limited is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34362,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.047Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2aa"
+  },
+  "businessName": "Kalyan Party Plot",
+  "businessType": "decoration",
+  "description": "Kalyan Party Plot is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 109431,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.084Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2ab"
+  },
+  "businessName": "Aj Events Management",
+  "businessType": "decoration",
+  "description": "Aj Events Management is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45440,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.118Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2ac"
+  },
+  "businessName": "BGC EVENT",
+  "businessType": "decoration",
+  "description": "BGC EVENT is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 105810,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2ad"
+  },
+  "businessName": "ROYAL EVENT & DECORATIONS",
+  "businessType": "decoration",
+  "description": "ROYAL EVENT & DECORATIONS is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69851,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.195Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2ae"
+  },
+  "businessName": "Party Decor",
+  "businessType": "decoration",
+  "description": "Party Decor is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 83367,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2af"
+  },
+  "businessName": "Rutu Event Management",
+  "businessType": "decoration",
+  "description": "Rutu Event Management is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45659,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.267Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2b0"
+  },
+  "businessName": "Suvarn Event Planner",
+  "businessType": "decoration",
+  "description": "Suvarn Event Planner is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 99652,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.305Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2b1"
+  },
+  "businessName": "Vip Events & Decorations",
+  "businessType": "decoration",
+  "description": "Vip Events & Decorations is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 192193,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2b3"
+  },
+  "businessName": "Jay Mataji Faraskhana",
+  "businessType": "decoration",
+  "description": "Jay Mataji Faraskhana is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41964,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.424Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2b4"
+  },
+  "businessName": "Shagun Party Plot",
+  "businessType": "decoration",
+  "description": "Shagun Party Plot is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 173615,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2b5"
+  },
+  "businessName": "Stalwart Events",
+  "businessType": "decoration",
+  "description": "Stalwart Events is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 52761,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.497Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2b6"
+  },
+  "businessName": "Heli Catering Services",
+  "businessType": "decoration",
+  "description": "Heli Catering Services is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 20636,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2b7"
+  },
+  "businessName": "Art Kemistry",
+  "businessType": "decoration",
+  "description": "Art Kemistry is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51245,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2b8"
+  },
+  "businessName": "D J Shiv",
+  "businessType": "decoration",
+  "description": "D J Shiv is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 90662,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:01.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2c1"
+  },
+  "businessName": "Rich Spoon-Ambica Caterers",
+  "businessType": "decoration",
+  "description": "Rich Spoon-Ambica Caterers is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66240,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.030Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2c2"
+  },
+  "businessName": "Sx4 Events",
+  "businessType": "decoration",
+  "description": "Sx4 Events is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 117762,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.067Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2c3"
+  },
+  "businessName": "Bhatt & Company",
+  "businessType": "decoration",
+  "description": "Bhatt & Company is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 60290,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.101Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2c4"
+  },
+  "businessName": "KANHA EVENT AND DECORATION",
+  "businessType": "decoration",
+  "description": "KANHA EVENT AND DECORATION is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 187289,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2c5"
+  },
+  "businessName": "Ekdant Audio Visuals",
+  "businessType": "decoration",
+  "description": "Ekdant Audio Visuals is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47659,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2c6"
+  },
+  "businessName": "Shree Nathaji Decorators",
+  "businessType": "decoration",
+  "description": "Shree Nathaji Decorators is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 88236,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.212Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2c7"
+  },
+  "businessName": "Party Decore",
+  "businessType": "decoration",
+  "description": "Party Decore is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 71214,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2c8"
+  },
+  "businessName": "Gokul Faraskhana",
+  "businessType": "decoration",
+  "description": "Gokul Faraskhana is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 180037,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.289Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2c9"
+  },
+  "businessName": "Being Elegant",
+  "businessType": "decoration",
+  "description": "Being Elegant is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66269,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.328Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2ca"
+  },
+  "businessName": "Kids Party",
+  "businessType": "decoration",
+  "description": "Kids Party is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 144639,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2cb"
+  },
+  "businessName": "A H M Florists",
+  "businessType": "decoration",
+  "description": "A H M Florists is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 167788,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2cc"
+  },
+  "businessName": "Leaf Entertainment And Events",
+  "businessType": "decoration",
+  "description": "Leaf Entertainment And Events is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 152954,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.445Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2cd"
+  },
+  "businessName": "Varsha Exotic",
+  "businessType": "decoration",
+  "description": "Varsha Exotic is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41661,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.484Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2ce"
+  },
+  "businessName": "Av Balloon Decoration And Event",
+  "businessType": "decoration",
+  "description": "Av Balloon Decoration And Event is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 116533,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.527Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2cf"
+  },
+  "businessName": "Bhagyoday Decorators",
+  "businessType": "decoration",
+  "description": "Bhagyoday Decorators is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 136394,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.561Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d0"
+  },
+  "businessName": "Shree Bipin Decorators",
+  "businessType": "decoration",
+  "description": "Shree Bipin Decorators is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46530,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d1"
+  },
+  "businessName": "DIYA CATERERS & DECORATOR",
+  "businessType": "decoration",
+  "description": "DIYA CATERERS & DECORATOR is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 182218,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.630Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d2"
+  },
+  "businessName": "Shlok Event Management",
+  "businessType": "decoration",
+  "description": "Shlok Event Management is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 179639,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.809Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d3"
+  },
+  "businessName": "Reem Production",
+  "businessType": "decoration",
+  "description": "Reem Production is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 165769,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:02.924Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d4"
+  },
+  "businessName": "Dream Creation 830",
+  "businessType": "decoration",
+  "description": "Dream Creation 830 is a premium decoration service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51531,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:03.066Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d5"
+  },
+  "businessName": "Shivam Light Decoration Sound Service & Marriage Events",
+  "businessType": "decoration",
+  "description": "Shivam Light Decoration Sound Service & Marriage Events is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 75238,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d6"
+  },
+  "businessName": "Balloon Designer",
+  "businessType": "decoration",
+  "description": "Balloon Designer is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26394,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.144Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d7"
+  },
+  "businessName": "Decoration Point",
+  "businessType": "decoration",
+  "description": "Decoration Point is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 113548,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.214Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d8"
+  },
+  "businessName": "Nest Event",
+  "businessType": "decoration",
+  "description": "Nest Event is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 113100,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2d9"
+  },
+  "businessName": "Elegance Decor",
+  "businessType": "decoration",
+  "description": "Elegance Decor is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 198829,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2da"
+  },
+  "businessName": "PARTY HUB",
+  "businessType": "decoration",
+  "description": "PARTY HUB is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 76143,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.449Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2db"
+  },
+  "businessName": "Mm Decoration",
+  "businessType": "decoration",
+  "description": "Mm Decoration is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 156343,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2dc"
+  },
+  "businessName": "Aarshi Holidays and Party Events",
+  "businessType": "decoration",
+  "description": "Aarshi Holidays and Party Events is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 25574,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.523Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2dd"
+  },
+  "businessName": "Gs Events",
+  "businessType": "decoration",
+  "description": "Gs Events is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 177499,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.558Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2de"
+  },
+  "businessName": "Aarzoo Lights Decoration",
+  "businessType": "decoration",
+  "description": "Aarzoo Lights Decoration is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34069,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2df"
+  },
+  "businessName": "Impact Events",
+  "businessType": "decoration",
+  "description": "Impact Events is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 82923,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2e0"
+  },
+  "businessName": "Harry Event & Entertainment",
+  "businessType": "decoration",
+  "description": "Harry Event & Entertainment is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 196671,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2e1"
+  },
+  "businessName": "Thakor Flowers Decoration",
+  "businessType": "decoration",
+  "description": "Thakor Flowers Decoration is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 128517,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2e2"
+  },
+  "businessName": "J P Event",
+  "businessType": "decoration",
+  "description": "J P Event is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 168599,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.734Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2e3"
+  },
+  "businessName": "Portrait Films",
+  "businessType": "decoration",
+  "description": "Portrait Films is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 65211,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.778Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2e4"
+  },
+  "businessName": "Balaji Mandap Service",
+  "businessType": "decoration",
+  "description": "Balaji Mandap Service is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 79715,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.817Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2e5"
+  },
+  "businessName": "Dharam Mandap Service",
+  "businessType": "decoration",
+  "description": "Dharam Mandap Service is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 189344,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.855Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2e6"
+  },
+  "businessName": "J K Decoration & Jumbo Cooler On Rent",
+  "businessType": "decoration",
+  "description": "J K Decoration & Jumbo Cooler On Rent is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34495,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:30.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f0"
+  },
+  "businessName": "Modern Sound & Stage Light",
+  "businessType": "decoration",
+  "description": "Modern Sound & Stage Light is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 106555,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.320Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f1"
+  },
+  "businessName": "G S Events",
+  "businessType": "decoration",
+  "description": "G S Events is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 108156,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.379Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f2"
+  },
+  "businessName": "Gurukrupa Stationary & Party Decoration",
+  "businessType": "decoration",
+  "description": "Gurukrupa Stationary & Party Decoration is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 147047,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.415Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f3"
+  },
+  "businessName": "Astute Events",
+  "businessType": "decoration",
+  "description": "Astute Events is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24253,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.455Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f4"
+  },
+  "businessName": "Take Wings Event",
+  "businessType": "decoration",
+  "description": "Take Wings Event is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 54489,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.494Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f5"
+  },
+  "businessName": "Agasya Party Stuff",
+  "businessType": "decoration",
+  "description": "Agasya Party Stuff is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 63399,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f6"
+  },
+  "businessName": "Rainbow Balloon Art",
+  "businessType": "decoration",
+  "description": "Rainbow Balloon Art is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 87047,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f7"
+  },
+  "businessName": "Gsevents Rajkot",
+  "businessType": "decoration",
+  "description": "Gsevents Rajkot is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 79416,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f8"
+  },
+  "businessName": "Pushpak Party Villa",
+  "businessType": "decoration",
+  "description": "Pushpak Party Villa is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 115311,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2f9"
+  },
+  "businessName": "Mr User",
+  "businessType": "decoration",
+  "description": "Mr User is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 93031,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.684Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2fa"
+  },
+  "businessName": "Shree Osam Mandap Decoration Solution Company",
+  "businessType": "decoration",
+  "description": "Shree Osam Mandap Decoration Solution Company is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 151108,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.735Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2fb"
+  },
+  "businessName": "Rajkamal Balloons & EVENTS",
+  "businessType": "decoration",
+  "description": "Rajkamal Balloons & EVENTS is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 194188,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.770Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2fc"
+  },
+  "businessName": "Tatsat Entertainment",
+  "businessType": "decoration",
+  "description": "Tatsat Entertainment is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 97956,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.802Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2fd"
+  },
+  "businessName": "Radhe Krishna Mandap Service & Decoration & Dj Sounds",
+  "businessType": "decoration",
+  "description": "Radhe Krishna Mandap Service & Decoration & Dj Sounds is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 52758,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2fe"
+  },
+  "businessName": "Suraj Mandap Decoration",
+  "businessType": "decoration",
+  "description": "Suraj Mandap Decoration is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 115823,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.869Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e2ff"
+  },
+  "businessName": "Gondal Self Drive",
+  "businessType": "decoration",
+  "description": "Gondal Self Drive is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 190961,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.902Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e300"
+  },
+  "businessName": "Shreenathji Mandap Decor",
+  "businessType": "decoration",
+  "description": "Shreenathji Mandap Decor is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 33507,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e301"
+  },
+  "businessName": "Jay Shree Mahakali Mandap Service",
+  "businessType": "decoration",
+  "description": "Jay Shree Mahakali Mandap Service is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 54677,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:31.989Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e302"
+  },
+  "businessName": "Shree Rokadiya Event & Light & Party Plot",
+  "businessType": "decoration",
+  "description": "Shree Rokadiya Event & Light & Party Plot is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22665,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:32.036Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e303"
+  },
+  "businessName": "Blue Crystal Events",
+  "businessType": "decoration",
+  "description": "Blue Crystal Events is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 143749,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:32.087Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f78443964c0cf4c7e304"
+  },
+  "businessName": "J. K Mandap Service (Real Pearl Party Plot)",
+  "businessType": "decoration",
+  "description": "J. K Mandap Service (Real Pearl Party Plot) is a premium decoration service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 133022,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "Floral Decor",
+    "Stage Setup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?decoration,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:32.174Z"
+  }
+}]

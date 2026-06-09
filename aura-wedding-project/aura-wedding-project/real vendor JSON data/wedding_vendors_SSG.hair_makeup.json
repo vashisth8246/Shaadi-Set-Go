@@ -1,0 +1,6848 @@
+[{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3cb"
+  },
+  "businessName": "Elieve Beauty & Wellness",
+  "businessType": "hair_makeup",
+  "description": "Elieve Beauty & Wellness is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 15435,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3cc"
+  },
+  "businessName": "Orchid The Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Orchid The Unisex Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 15252,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3cd"
+  },
+  "businessName": "Fatima Mehndi Artists",
+  "businessType": "hair_makeup",
+  "description": "Fatima Mehndi Artists is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 30016,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.639Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3ce"
+  },
+  "businessName": "Blossom Makeovers Saloon and Acadamy",
+  "businessType": "hair_makeup",
+  "description": "Blossom Makeovers Saloon and Acadamy is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37932,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3cf"
+  },
+  "businessName": "H&M Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "H&M Salon & Academy is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48672,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d0"
+  },
+  "businessName": "Mantra Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Mantra Beauty Parlour is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 10130,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.795Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d1"
+  },
+  "businessName": "Harshita Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Harshita Salon & Academy is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 12777,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.859Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d2"
+  },
+  "businessName": "Vellora Hair & Beauty Lounge",
+  "businessType": "hair_makeup",
+  "description": "Vellora Hair & Beauty Lounge is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22353,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d3"
+  },
+  "businessName": "Blossom Hair Beauty Makeup",
+  "businessType": "hair_makeup",
+  "description": "Blossom Hair Beauty Makeup is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48273,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.928Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d4"
+  },
+  "businessName": "Abide Beauty Care and Classes",
+  "businessType": "hair_makeup",
+  "description": "Abide Beauty Care and Classes is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 27943,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.949Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d5"
+  },
+  "businessName": "Ashika Beauty Parlour (Only For Ladies)",
+  "businessType": "hair_makeup",
+  "description": "Ashika Beauty Parlour (Only For Ladies) is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 38626,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d6"
+  },
+  "businessName": "Gautams Salon",
+  "businessType": "hair_makeup",
+  "description": "Gautams Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 33268,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:58.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d7"
+  },
+  "businessName": "Sherene's Hub Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Sherene's Hub Unisex Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 16549,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d8"
+  },
+  "businessName": "Triple Eight Hair & Beauty",
+  "businessType": "hair_makeup",
+  "description": "Triple Eight Hair & Beauty is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 27700,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3d9"
+  },
+  "businessName": "Face Value Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "Face Value Beauty Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26073,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.200Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3da"
+  },
+  "businessName": "Nimit Makeup Studio",
+  "businessType": "hair_makeup",
+  "description": "Nimit Makeup Studio is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44119,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3db"
+  },
+  "businessName": "Glamour Hair & Beauty",
+  "businessType": "hair_makeup",
+  "description": "Glamour Hair & Beauty is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37623,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.300Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3dc"
+  },
+  "businessName": "Prayosha Beauty Care & Academy",
+  "businessType": "hair_makeup",
+  "description": "Prayosha Beauty Care & Academy is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34246,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3dd"
+  },
+  "businessName": "Ms Hemali",
+  "businessType": "hair_makeup",
+  "description": "Ms Hemali is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22209,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.415Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3de"
+  },
+  "businessName": "Blush Makeover",
+  "businessType": "hair_makeup",
+  "description": "Blush Makeover is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 13047,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.462Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3df"
+  },
+  "businessName": "Aditi'S Beauty Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Aditi'S Beauty Salon & Academy is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 30569,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e0"
+  },
+  "businessName": "MR Beauty Salon & Studio",
+  "businessType": "hair_makeup",
+  "description": "MR Beauty Salon & Studio is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 14561,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.567Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e1"
+  },
+  "businessName": "Lakme Salon",
+  "businessType": "hair_makeup",
+  "description": "Lakme Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24371,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e2"
+  },
+  "businessName": "United Nails & Salon",
+  "businessType": "hair_makeup",
+  "description": "United Nails & Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29121,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e3"
+  },
+  "businessName": "Stapup Salon",
+  "businessType": "hair_makeup",
+  "description": "Stapup Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 5589,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.722Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e4"
+  },
+  "businessName": "Akils Hair Studio Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Akils Hair Studio Unisex Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 5763,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.752Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e5"
+  },
+  "businessName": "Nevanshi Beauty Care",
+  "businessType": "hair_makeup",
+  "description": "Nevanshi Beauty Care is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 17462,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e6"
+  },
+  "businessName": "The Empire Beauty Bar",
+  "businessType": "hair_makeup",
+  "description": "The Empire Beauty Bar is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 16544,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e7"
+  },
+  "businessName": "Black Paper Salon",
+  "businessType": "hair_makeup",
+  "description": "Black Paper Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 9466,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.873Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e8"
+  },
+  "businessName": "Radiant Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "Radiant Beauty Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 28447,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.926Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3e9"
+  },
+  "businessName": "Lady Grace Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Lady Grace Beauty Parlour is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22721,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:59.965Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3ea"
+  },
+  "businessName": "The Princess Beauty Zone",
+  "businessType": "hair_makeup",
+  "description": "The Princess Beauty Zone is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37653,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3eb"
+  },
+  "businessName": "Glamour Junction Unisex Saloon",
+  "businessType": "hair_makeup",
+  "description": "Glamour Junction Unisex Saloon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24897,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3ec"
+  },
+  "businessName": "Jawed Habib Hair & Beauty",
+  "businessType": "hair_makeup",
+  "description": "Jawed Habib Hair & Beauty is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29036,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.211Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3ed"
+  },
+  "businessName": "Makeup Therapy By Madhu- Best Bridal Makeup Artist",
+  "businessType": "hair_makeup",
+  "description": "Makeup Therapy By Madhu- Best Bridal Makeup Artist is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45219,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.269Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3ee"
+  },
+  "businessName": "Allure Family Salon",
+  "businessType": "hair_makeup",
+  "description": "Allure Family Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 33462,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3ef"
+  },
+  "businessName": "Sprkle Beauty",
+  "businessType": "hair_makeup",
+  "description": "Sprkle Beauty is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 13328,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f0"
+  },
+  "businessName": "Hair and Glow Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Hair and Glow Unisex Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 5815,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f1"
+  },
+  "businessName": "Ira Beauty Care",
+  "businessType": "hair_makeup",
+  "description": "Ira Beauty Care is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 27818,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.449Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f2"
+  },
+  "businessName": "Apex Beauty Salon Service",
+  "businessType": "hair_makeup",
+  "description": "Apex Beauty Salon Service is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 36821,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.497Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f3"
+  },
+  "businessName": "City Style Salon",
+  "businessType": "hair_makeup",
+  "description": "City Style Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 38408,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f4"
+  },
+  "businessName": "Kalindi Beauty Studio & Nail Academy",
+  "businessType": "hair_makeup",
+  "description": "Kalindi Beauty Studio & Nail Academy is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46808,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.666Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f5"
+  },
+  "businessName": "Akil's Hair Studio",
+  "businessType": "hair_makeup",
+  "description": "Akil's Hair Studio is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 35467,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f6"
+  },
+  "businessName": "Chetna Mehndi Artist",
+  "businessType": "hair_makeup",
+  "description": "Chetna Mehndi Artist is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 35564,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.783Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f7"
+  },
+  "businessName": "Sakshi Akhani Makeovers",
+  "businessType": "hair_makeup",
+  "description": "Sakshi Akhani Makeovers is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 21019,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.823Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f8"
+  },
+  "businessName": "Friends Hair Skin Make Up & Academy",
+  "businessType": "hair_makeup",
+  "description": "Friends Hair Skin Make Up & Academy is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 12091,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3f9"
+  },
+  "businessName": "Neelam Makeup Studio",
+  "businessType": "hair_makeup",
+  "description": "Neelam Makeup Studio is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 16045,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:00.945Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3fa"
+  },
+  "businessName": "Make Over Beauty Hub",
+  "businessType": "hair_makeup",
+  "description": "Make Over Beauty Hub is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49246,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:01.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3fb"
+  },
+  "businessName": "Hema Bridal Studio",
+  "businessType": "hair_makeup",
+  "description": "Hema Bridal Studio is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 42768,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:01.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3fc"
+  },
+  "businessName": "Aliza Makeover & Academy Salon",
+  "businessType": "hair_makeup",
+  "description": "Aliza Makeover & Academy Salon is a premium hair_makeup service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24059,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:01.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3fd"
+  },
+  "businessName": "Nailed Itt Surat Luxury Salon and Academy",
+  "businessType": "hair_makeup",
+  "description": "Nailed Itt Surat Luxury Salon and Academy is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 36190,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.329Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3fe"
+  },
+  "businessName": "Krishana Beauty Parlour and Saloon",
+  "businessType": "hair_makeup",
+  "description": "Krishana Beauty Parlour and Saloon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 38194,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.376Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e3ff"
+  },
+  "businessName": "Indian Beauty Institute",
+  "businessType": "hair_makeup",
+  "description": "Indian Beauty Institute is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 5775,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.429Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e400"
+  },
+  "businessName": "Suvasini Bridal Makeover",
+  "businessType": "hair_makeup",
+  "description": "Suvasini Bridal Makeover is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 33964,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e401"
+  },
+  "businessName": "Ronak Beauty World",
+  "businessType": "hair_makeup",
+  "description": "Ronak Beauty World is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26086,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.547Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e402"
+  },
+  "businessName": "Scissors Unisex Salon Hair Master",
+  "businessType": "hair_makeup",
+  "description": "Scissors Unisex Salon Hair Master is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 43185,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e403"
+  },
+  "businessName": "Master's Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Master's Unisex Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 17654,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e404"
+  },
+  "businessName": "D Brother's Hair & Makeup Studio",
+  "businessType": "hair_makeup",
+  "description": "D Brother's Hair & Makeup Studio is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41820,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e405"
+  },
+  "businessName": "Preety Salon",
+  "businessType": "hair_makeup",
+  "description": "Preety Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 17480,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e406"
+  },
+  "businessName": "New Top & Town The Family Salon",
+  "businessType": "hair_makeup",
+  "description": "New Top & Town The Family Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 25055,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e407"
+  },
+  "businessName": "Novva Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Novva Unisex Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 16667,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.796Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e408"
+  },
+  "businessName": "Neel Bridal Make Up Studio",
+  "businessType": "hair_makeup",
+  "description": "Neel Bridal Make Up Studio is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49338,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.839Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e409"
+  },
+  "businessName": "Satyam Shivam Sundram Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Satyam Shivam Sundram Beauty Parlour is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41265,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:28.896Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e40a"
+  },
+  "businessName": "Shree Krishna Bridal Academy",
+  "businessType": "hair_makeup",
+  "description": "Shree Krishna Bridal Academy is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46095,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.059Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e40b"
+  },
+  "businessName": "Nail Artis By Jenixa",
+  "businessType": "hair_makeup",
+  "description": "Nail Artis By Jenixa is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 30426,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e40c"
+  },
+  "businessName": "Belevista Skincare & Asthetic Center",
+  "businessType": "hair_makeup",
+  "description": "Belevista Skincare & Asthetic Center is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 39061,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e40d"
+  },
+  "businessName": "Hers & Sirs Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Hers & Sirs Unisex Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 25810,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e40e"
+  },
+  "businessName": "Shree Bhagyalakshmi Family Salon and Massage Center",
+  "businessType": "hair_makeup",
+  "description": "Shree Bhagyalakshmi Family Salon and Massage Center is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41670,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e40f"
+  },
+  "businessName": "Vama Beauty Solution",
+  "businessType": "hair_makeup",
+  "description": "Vama Beauty Solution is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 33968,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e410"
+  },
+  "businessName": "Blossom Luxurious Salon",
+  "businessType": "hair_makeup",
+  "description": "Blossom Luxurious Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 12822,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e411"
+  },
+  "businessName": "Ashlesha Bhagat",
+  "businessType": "hair_makeup",
+  "description": "Ashlesha Bhagat is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 10154,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e412"
+  },
+  "businessName": "HouseOf Makeup & Hair Artistry",
+  "businessType": "hair_makeup",
+  "description": "HouseOf Makeup & Hair Artistry is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23524,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.485Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e413"
+  },
+  "businessName": "Z'S Studio Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Z'S Studio Unisex Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40815,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e414"
+  },
+  "businessName": "C-Net UNISEX Saloon & Academy",
+  "businessType": "hair_makeup",
+  "description": "C-Net UNISEX Saloon & Academy is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 21982,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e415"
+  },
+  "businessName": "Kkristy Hair Salon",
+  "businessType": "hair_makeup",
+  "description": "Kkristy Hair Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 5917,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e416"
+  },
+  "businessName": "Make-up Studio By Nidhi Thakur",
+  "businessType": "hair_makeup",
+  "description": "Make-up Studio By Nidhi Thakur is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 28399,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e417"
+  },
+  "businessName": "Renu Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Renu Beauty Parlour is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37538,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e418"
+  },
+  "businessName": "Milin's Salon",
+  "businessType": "hair_makeup",
+  "description": "Milin's Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24684,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.755Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e419"
+  },
+  "businessName": "Crown Beauty Care",
+  "businessType": "hair_makeup",
+  "description": "Crown Beauty Care is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47766,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.794Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e41a"
+  },
+  "businessName": "Shree Bridal Studio",
+  "businessType": "hair_makeup",
+  "description": "Shree Bridal Studio is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29388,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.834Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e41b"
+  },
+  "businessName": "Glory Hair and Beauty",
+  "businessType": "hair_makeup",
+  "description": "Glory Hair and Beauty is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 12997,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e41c"
+  },
+  "businessName": "Virja Hair Salon Makeover & Academy",
+  "businessType": "hair_makeup",
+  "description": "Virja Hair Salon Makeover & Academy is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 28631,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e41d"
+  },
+  "businessName": "Pari Beauty Makeover",
+  "businessType": "hair_makeup",
+  "description": "Pari Beauty Makeover is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 42559,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:29.963Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e41e"
+  },
+  "businessName": "Nilu Beauty Studio",
+  "businessType": "hair_makeup",
+  "description": "Nilu Beauty Studio is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 5573,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e41f"
+  },
+  "businessName": "Diva Makeup Studio",
+  "businessType": "hair_makeup",
+  "description": "Diva Makeup Studio is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 42587,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.060Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e420"
+  },
+  "businessName": "Ujjwal Makeover & Academy",
+  "businessType": "hair_makeup",
+  "description": "Ujjwal Makeover & Academy is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 25107,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.113Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e421"
+  },
+  "businessName": "Beauty Mantra Makeover Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Beauty Mantra Makeover Salon & Academy is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48594,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.164Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e422"
+  },
+  "businessName": "Kajal Bridal Studio",
+  "businessType": "hair_makeup",
+  "description": "Kajal Bridal Studio is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23701,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.202Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e423"
+  },
+  "businessName": "Astha Bridal Boutique and Salon",
+  "businessType": "hair_makeup",
+  "description": "Astha Bridal Boutique and Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23362,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e424"
+  },
+  "businessName": "Exotic Beauty Network Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Exotic Beauty Network Unisex Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37453,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.262Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e425"
+  },
+  "businessName": "Rashmi Saloon",
+  "businessType": "hair_makeup",
+  "description": "Rashmi Saloon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 16105,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.288Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e426"
+  },
+  "businessName": "Advance Professional Family Saloon",
+  "businessType": "hair_makeup",
+  "description": "Advance Professional Family Saloon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 19505,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e427"
+  },
+  "businessName": "M K Mehandi Art",
+  "businessType": "hair_makeup",
+  "description": "M K Mehandi Art is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 25256,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.354Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e428"
+  },
+  "businessName": "ACME Hair & Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "ACME Hair & Beauty Salon is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 6125,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e429"
+  },
+  "businessName": "Divine Beauty By Jetal Skin & Makeup Studio",
+  "businessType": "hair_makeup",
+  "description": "Divine Beauty By Jetal Skin & Makeup Studio is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 9948,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e42a"
+  },
+  "businessName": "Meenu Beauty Care",
+  "businessType": "hair_makeup",
+  "description": "Meenu Beauty Care is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 8801,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.458Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e42b"
+  },
+  "businessName": "Crystal Family Spa Salon and Clinic",
+  "businessType": "hair_makeup",
+  "description": "Crystal Family Spa Salon and Clinic is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44860,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.501Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e42c"
+  },
+  "businessName": "Jiyas Beauty Hub",
+  "businessType": "hair_makeup",
+  "description": "Jiyas Beauty Hub is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 15697,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e42d"
+  },
+  "businessName": "Natural Family Salon And Spa",
+  "businessType": "hair_makeup",
+  "description": "Natural Family Salon And Spa is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22684,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.618Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e42e"
+  },
+  "businessName": "Beauty Ccare",
+  "businessType": "hair_makeup",
+  "description": "Beauty Ccare is a premium hair_makeup service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29926,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:30.657Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e42f"
+  },
+  "businessName": "Nailed Itt",
+  "businessType": "hair_makeup",
+  "description": "Nailed Itt is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 15862,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:57.583Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e430"
+  },
+  "businessName": "Styloria Unisex Hair Studio & Lounge",
+  "businessType": "hair_makeup",
+  "description": "Styloria Unisex Hair Studio & Lounge is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45379,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:57.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e431"
+  },
+  "businessName": "Ved Beauty Studio & Academy",
+  "businessType": "hair_makeup",
+  "description": "Ved Beauty Studio & Academy is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 8715,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:57.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e432"
+  },
+  "businessName": "Kbeauty Glam Studio",
+  "businessType": "hair_makeup",
+  "description": "Kbeauty Glam Studio is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44298,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:57.758Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e433"
+  },
+  "businessName": "Tara Beauty Clinic",
+  "businessType": "hair_makeup",
+  "description": "Tara Beauty Clinic is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47438,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:57.804Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e434"
+  },
+  "businessName": "Hairbar Unisex Saloon",
+  "businessType": "hair_makeup",
+  "description": "Hairbar Unisex Saloon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40986,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:57.838Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e435"
+  },
+  "businessName": "Rutika Beauty Studio & Academy Mahendi Artist",
+  "businessType": "hair_makeup",
+  "description": "Rutika Beauty Studio & Academy Mahendi Artist is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37246,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:57.868Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e436"
+  },
+  "businessName": "Victoria Beauty Studio",
+  "businessType": "hair_makeup",
+  "description": "Victoria Beauty Studio is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 25246,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:57.908Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e437"
+  },
+  "businessName": "Beautymanntra Salon",
+  "businessType": "hair_makeup",
+  "description": "Beautymanntra Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 13145,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:57.977Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e438"
+  },
+  "businessName": "Charming Beauty Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Charming Beauty Salon & Academy is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24309,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e439"
+  },
+  "businessName": "Seraphic Nail & Beauty Care",
+  "businessType": "hair_makeup",
+  "description": "Seraphic Nail & Beauty Care is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 9125,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e43a"
+  },
+  "businessName": "Be Gorgeous Salon",
+  "businessType": "hair_makeup",
+  "description": "Be Gorgeous Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 32883,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.300Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e43b"
+  },
+  "businessName": "Herb Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Herb Beauty Parlour is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 16790,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e43c"
+  },
+  "businessName": "JES Makover Ladies Saloon & Hair",
+  "businessType": "hair_makeup",
+  "description": "JES Makover Ladies Saloon & Hair is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 19587,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e43d"
+  },
+  "businessName": "Bloom Salon",
+  "businessType": "hair_makeup",
+  "description": "Bloom Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 19152,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.593Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e43e"
+  },
+  "businessName": "Vandanas Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Vandanas Beauty Parlour is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 19929,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e43f"
+  },
+  "businessName": "Snehal's Beyoutie",
+  "businessType": "hair_makeup",
+  "description": "Snehal's Beyoutie is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 7885,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.765Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e440"
+  },
+  "businessName": "Salon 24 Unisex Salon & Nail Art",
+  "businessType": "hair_makeup",
+  "description": "Salon 24 Unisex Salon & Nail Art is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 13420,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.853Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e441"
+  },
+  "businessName": "Shimmer Ladies Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Shimmer Ladies Beauty Parlour is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 18089,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:58.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e442"
+  },
+  "businessName": "Suchis Studio - Brash",
+  "businessType": "hair_makeup",
+  "description": "Suchis Studio - Brash is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37498,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.028Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e443"
+  },
+  "businessName": "The Beauty Town",
+  "businessType": "hair_makeup",
+  "description": "The Beauty Town is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46955,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.112Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e444"
+  },
+  "businessName": "Saundarya Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "Saundarya Beauty Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24963,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e445"
+  },
+  "businessName": "New Style Studio & Academy",
+  "businessType": "hair_makeup",
+  "description": "New Style Studio & Academy is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 5520,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e446"
+  },
+  "businessName": "Foram's Beauty Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Foram's Beauty Salon & Academy is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47512,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e447"
+  },
+  "businessName": "Grooming Lounge Hair Skin & Nails",
+  "businessType": "hair_makeup",
+  "description": "Grooming Lounge Hair Skin & Nails is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22152,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.461Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e448"
+  },
+  "businessName": "Golden Spa & Salon",
+  "businessType": "hair_makeup",
+  "description": "Golden Spa & Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 14911,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e449"
+  },
+  "businessName": "Iconiea Salon",
+  "businessType": "hair_makeup",
+  "description": "Iconiea Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 25457,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e44a"
+  },
+  "businessName": "Roochies Salon - Academy & Makeup Studio",
+  "businessType": "hair_makeup",
+  "description": "Roochies Salon - Academy & Makeup Studio is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 30565,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.784Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e44b"
+  },
+  "businessName": "Unique Ladies Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "Unique Ladies Beauty Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31488,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.858Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e44d"
+  },
+  "businessName": "Bhumi S Beauty Care",
+  "businessType": "hair_makeup",
+  "description": "Bhumi S Beauty Care is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49307,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:08:59.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e44e"
+  },
+  "businessName": "Be Gorgeous Saloon and Academy",
+  "businessType": "hair_makeup",
+  "description": "Be Gorgeous Saloon and Academy is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44697,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e44f"
+  },
+  "businessName": "Sakhi The Beauty Care",
+  "businessType": "hair_makeup",
+  "description": "Sakhi The Beauty Care is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37230,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.231Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e450"
+  },
+  "businessName": "Blossom Nails & Beauty Studio",
+  "businessType": "hair_makeup",
+  "description": "Blossom Nails & Beauty Studio is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 20893,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e451"
+  },
+  "businessName": "Creation Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Creation Salon & Academy is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48932,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.384Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e452"
+  },
+  "businessName": "Peach The Bridal Studio (Kapurai)",
+  "businessType": "hair_makeup",
+  "description": "Peach The Bridal Studio (Kapurai) is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47971,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.458Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e454"
+  },
+  "businessName": "Makeup Therapy By Madhu",
+  "businessType": "hair_makeup",
+  "description": "Makeup Therapy By Madhu is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 18115,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.655Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e455"
+  },
+  "businessName": "Krupas Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "Krupas Beauty Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47916,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e456"
+  },
+  "businessName": "Women World Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Women World Beauty Parlour is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 35606,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.862Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e457"
+  },
+  "businessName": "Beauty & Blon Proffessional Care",
+  "businessType": "hair_makeup",
+  "description": "Beauty & Blon Proffessional Care is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 20148,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.931Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e458"
+  },
+  "businessName": "Mt Makeover",
+  "businessType": "hair_makeup",
+  "description": "Mt Makeover is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24871,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:00.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e459"
+  },
+  "businessName": "Belvia Family Salon Andspa",
+  "businessType": "hair_makeup",
+  "description": "Belvia Family Salon Andspa is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 20369,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:01.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e45a"
+  },
+  "businessName": "Navratna Womens Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "Navratna Womens Beauty Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46382,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:01.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e45b"
+  },
+  "businessName": "Shayona Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Shayona Beauty Parlour is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 5218,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:01.201Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e45c"
+  },
+  "businessName": "Dimple Hair & Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "Dimple Hair & Beauty Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31886,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:01.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e45d"
+  },
+  "businessName": "La Grace Beauty & Hair Academy",
+  "businessType": "hair_makeup",
+  "description": "La Grace Beauty & Hair Academy is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47105,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:01.348Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e45e"
+  },
+  "businessName": "Bombshell Salon",
+  "businessType": "hair_makeup",
+  "description": "Bombshell Salon is a premium hair_makeup service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24573,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:01.409Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e45f"
+  },
+  "businessName": "Eklipz Salon",
+  "businessType": "hair_makeup",
+  "description": "Eklipz Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 11558,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:29.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e460"
+  },
+  "businessName": "TJ Saloon Academy",
+  "businessType": "hair_makeup",
+  "description": "TJ Saloon Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37732,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:29.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e461"
+  },
+  "businessName": "DEEPA'S BEAUTY SALON & ACADEMY",
+  "businessType": "hair_makeup",
+  "description": "DEEPA'S BEAUTY SALON & ACADEMY is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29816,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:29.739Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e462"
+  },
+  "businessName": "Mangal Ladies Salon",
+  "businessType": "hair_makeup",
+  "description": "Mangal Ladies Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 42706,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:29.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e463"
+  },
+  "businessName": "Ck Glamour",
+  "businessType": "hair_makeup",
+  "description": "Ck Glamour is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 8869,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:30.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e464"
+  },
+  "businessName": "Nik'S Salon",
+  "businessType": "hair_makeup",
+  "description": "Nik'S Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29006,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:30.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e465"
+  },
+  "businessName": "The Kiocchi",
+  "businessType": "hair_makeup",
+  "description": "The Kiocchi is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26831,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:30.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e466"
+  },
+  "businessName": "Make Over Salon For Him and Her",
+  "businessType": "hair_makeup",
+  "description": "Make Over Salon For Him and Her is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 14259,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:30.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e467"
+  },
+  "businessName": "Titali Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Titali Beauty Parlour is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41753,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:31.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e468"
+  },
+  "businessName": "Sunrise Salon",
+  "businessType": "hair_makeup",
+  "description": "Sunrise Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34941,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:31.242Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e469"
+  },
+  "businessName": "Sundar Vilas Beauty Salon Academy",
+  "businessType": "hair_makeup",
+  "description": "Sundar Vilas Beauty Salon Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48451,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:31.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e46a"
+  },
+  "businessName": "Avsar Beauty Saloon",
+  "businessType": "hair_makeup",
+  "description": "Avsar Beauty Saloon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48498,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e46b"
+  },
+  "businessName": "Nita's Salon",
+  "businessType": "hair_makeup",
+  "description": "Nita's Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44912,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.240Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e46d"
+  },
+  "businessName": "The Opulence Salon Space (Nitas By Hemali)",
+  "businessType": "hair_makeup",
+  "description": "The Opulence Salon Space (Nitas By Hemali) is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23330,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e46e"
+  },
+  "businessName": "Break Free Family Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Break Free Family Salon & Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 25825,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e46f"
+  },
+  "businessName": "The Infinity Nails",
+  "businessType": "hair_makeup",
+  "description": "The Infinity Nails is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 17667,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.474Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e470"
+  },
+  "businessName": "Bonanza Ladies Salon",
+  "businessType": "hair_makeup",
+  "description": "Bonanza Ladies Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23415,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.529Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e471"
+  },
+  "businessName": "Nobis Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "Nobis Unisex Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 19116,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e472"
+  },
+  "businessName": "Addys Hair Salon & Tattoo",
+  "businessType": "hair_makeup",
+  "description": "Addys Hair Salon & Tattoo is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 35283,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.594Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e473"
+  },
+  "businessName": "Monaliza Hair & Beauty Lounge",
+  "businessType": "hair_makeup",
+  "description": "Monaliza Hair & Beauty Lounge is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 27961,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e474"
+  },
+  "businessName": "Ace On Fades Salon(by Naimish)",
+  "businessType": "hair_makeup",
+  "description": "Ace On Fades Salon(by Naimish) is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 28564,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e475"
+  },
+  "businessName": "Angel Family Salon - Ladies & Gents",
+  "businessType": "hair_makeup",
+  "description": "Angel Family Salon - Ladies & Gents is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 18611,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e476"
+  },
+  "businessName": "The Enrich Beauty Zone",
+  "businessType": "hair_makeup",
+  "description": "The Enrich Beauty Zone is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48052,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.725Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e477"
+  },
+  "businessName": "Krishna Hair & Beauty",
+  "businessType": "hair_makeup",
+  "description": "Krishna Hair & Beauty is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22012,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.744Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e478"
+  },
+  "businessName": "B M Beauty Studio",
+  "businessType": "hair_makeup",
+  "description": "B M Beauty Studio is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 32708,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e479"
+  },
+  "businessName": "The K Plus Beauty Saloon & Academy",
+  "businessType": "hair_makeup",
+  "description": "The K Plus Beauty Saloon & Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23511,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e47a"
+  },
+  "businessName": "Silky Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "Silky Beauty Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 16017,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.841Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e47b"
+  },
+  "businessName": "RIDDHI'S MAKEOVER",
+  "businessType": "hair_makeup",
+  "description": "RIDDHI'S MAKEOVER is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29386,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e47c"
+  },
+  "businessName": "Netvi Beauty Saloon",
+  "businessType": "hair_makeup",
+  "description": "Netvi Beauty Saloon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48308,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e47d"
+  },
+  "businessName": "Bina Beauty Parlour and Academy",
+  "businessType": "hair_makeup",
+  "description": "Bina Beauty Parlour and Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29439,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:32.962Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e47e"
+  },
+  "businessName": "Krupsa Makeup & Beauty Studio",
+  "businessType": "hair_makeup",
+  "description": "Krupsa Makeup & Beauty Studio is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22438,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e47f"
+  },
+  "businessName": "Krishna's Mehandi Rajkot",
+  "businessType": "hair_makeup",
+  "description": "Krishna's Mehandi Rajkot is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45418,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.150Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e480"
+  },
+  "businessName": "Avsar Collection",
+  "businessType": "hair_makeup",
+  "description": "Avsar Collection is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31362,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.213Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e481"
+  },
+  "businessName": "New Wave Unisex Salon",
+  "businessType": "hair_makeup",
+  "description": "New Wave Unisex Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 28823,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e482"
+  },
+  "businessName": "Bonanza The Beauty Lounge",
+  "businessType": "hair_makeup",
+  "description": "Bonanza The Beauty Lounge is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46867,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.345Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e483"
+  },
+  "businessName": "Kens Tattoo And Tattoo Remove",
+  "businessType": "hair_makeup",
+  "description": "Kens Tattoo And Tattoo Remove is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29751,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.401Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e484"
+  },
+  "businessName": "Tattoo Adda",
+  "businessType": "hair_makeup",
+  "description": "Tattoo Adda is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22869,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.457Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e485"
+  },
+  "businessName": "Divine Tattoo Studio",
+  "businessType": "hair_makeup",
+  "description": "Divine Tattoo Studio is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 5657,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e486"
+  },
+  "businessName": "Vanshi's beauty salon & academy",
+  "businessType": "hair_makeup",
+  "description": "Vanshi's beauty salon & academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47564,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.539Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e487"
+  },
+  "businessName": "Yk Creation The Gentlemen Barber Shop",
+  "businessType": "hair_makeup",
+  "description": "Yk Creation The Gentlemen Barber Shop is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44538,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e488"
+  },
+  "businessName": "Akruti Beauty Salon & Training Centre",
+  "businessType": "hair_makeup",
+  "description": "Akruti Beauty Salon & Training Centre is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34099,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e489"
+  },
+  "businessName": "Rucha The Mehandi Art",
+  "businessType": "hair_makeup",
+  "description": "Rucha The Mehandi Art is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24711,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e48a"
+  },
+  "businessName": "Yk Creation Barber Shop - Mavdi",
+  "businessType": "hair_makeup",
+  "description": "Yk Creation Barber Shop - Mavdi is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 33196,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.699Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e48b"
+  },
+  "businessName": "Creation Hair N Beaty Unisex Salon N Tattoo Studio",
+  "businessType": "hair_makeup",
+  "description": "Creation Hair N Beaty Unisex Salon N Tattoo Studio is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 20165,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.794Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e48c"
+  },
+  "businessName": "Fashion Street Beauty Saloon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Fashion Street Beauty Saloon & Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29983,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:33.917Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e48d"
+  },
+  "businessName": "Attraction Hair Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Attraction Hair Salon & Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29157,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.018Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e48e"
+  },
+  "businessName": "Shree Krishna Hair Parlour",
+  "businessType": "hair_makeup",
+  "description": "Shree Krishna Hair Parlour is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41169,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.108Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e48f"
+  },
+  "businessName": "Y K Creation Family Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Y K Creation Family Salon & Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23531,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.192Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e490"
+  },
+  "businessName": "Antop Salon",
+  "businessType": "hair_makeup",
+  "description": "Antop Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48372,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.273Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e491"
+  },
+  "businessName": "Heena'S Adorn Parlour",
+  "businessType": "hair_makeup",
+  "description": "Heena'S Adorn Parlour is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40753,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e492"
+  },
+  "businessName": "Vama's Beauty Care",
+  "businessType": "hair_makeup",
+  "description": "Vama's Beauty Care is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 13991,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e493"
+  },
+  "businessName": "Sanju's Hair Salon",
+  "businessType": "hair_makeup",
+  "description": "Sanju's Hair Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 15976,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e494"
+  },
+  "businessName": "Mega Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Mega Beauty Parlour is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 11633,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.499Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e495"
+  },
+  "businessName": "New Style Salon And Academy",
+  "businessType": "hair_makeup",
+  "description": "New Style Salon And Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 17213,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e496"
+  },
+  "businessName": "Allwin Hair Designer",
+  "businessType": "hair_makeup",
+  "description": "Allwin Hair Designer is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 36656,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.588Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e497"
+  },
+  "businessName": "Sheetal's Bridal Makeover",
+  "businessType": "hair_makeup",
+  "description": "Sheetal's Bridal Makeover is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 30016,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e498"
+  },
+  "businessName": "Trustyle Cosmetic Lounge",
+  "businessType": "hair_makeup",
+  "description": "Trustyle Cosmetic Lounge is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 6529,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e499"
+  },
+  "businessName": "Bonanza Mens Salon",
+  "businessType": "hair_makeup",
+  "description": "Bonanza Mens Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 14736,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.754Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e49a"
+  },
+  "businessName": "Yk Creation Barber Shop - Raiya",
+  "businessType": "hair_makeup",
+  "description": "Yk Creation Barber Shop - Raiya is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 11820,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.788Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e49b"
+  },
+  "businessName": "Janvi Salon",
+  "businessType": "hair_makeup",
+  "description": "Janvi Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22943,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e49c"
+  },
+  "businessName": "Lunar Beauty Parlour",
+  "businessType": "hair_makeup",
+  "description": "Lunar Beauty Parlour is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26064,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.899Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e49d"
+  },
+  "businessName": "Glory's Bridal Makeover",
+  "businessType": "hair_makeup",
+  "description": "Glory's Bridal Makeover is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 20843,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e49e"
+  },
+  "businessName": "Roots Hair N Beauty Salon",
+  "businessType": "hair_makeup",
+  "description": "Roots Hair N Beauty Salon is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 7381,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:34.985Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e49f"
+  },
+  "businessName": "Bombay Hair Art",
+  "businessType": "hair_makeup",
+  "description": "Bombay Hair Art is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 6738,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:35.020Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e4a0"
+  },
+  "businessName": "Elegance Hair & Beauty Lounge",
+  "businessType": "hair_makeup",
+  "description": "Elegance Hair & Beauty Lounge is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45079,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:35.052Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e4a1"
+  },
+  "businessName": "Hairline Salon Academy",
+  "businessType": "hair_makeup",
+  "description": "Hairline Salon Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 28670,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:35.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e4a2"
+  },
+  "businessName": "Maristela Beauty Lounge",
+  "businessType": "hair_makeup",
+  "description": "Maristela Beauty Lounge is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 15590,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:35.147Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f87743964c0cf4c7e4a3"
+  },
+  "businessName": "Bblush The Beauty Salon & Academy",
+  "businessType": "hair_makeup",
+  "description": "Bblush The Beauty Salon & Academy is a premium hair_makeup service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49439,
+    "pricingType": "Per Service"
+  },
+  "services": [
+    "Bridal Makeup"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?hair_makeup,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:09:35.181Z"
+  }
+}]

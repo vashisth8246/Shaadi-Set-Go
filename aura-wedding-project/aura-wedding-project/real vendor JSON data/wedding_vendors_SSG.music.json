@@ -1,0 +1,6468 @@
+[{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e17a"
+  },
+  "businessName": "Raghuvanshi Events & Decor",
+  "businessType": "music",
+  "description": "Raghuvanshi Events & Decor is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22996,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:54.838Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e17b"
+  },
+  "businessName": "Dj VSS Sound",
+  "businessType": "music",
+  "description": "Dj VSS Sound is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37530,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:54.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e17c"
+  },
+  "businessName": "Baccha Party",
+  "businessType": "music",
+  "description": "Baccha Party is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 43421,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:54.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e17d"
+  },
+  "businessName": "Anchor Mansi Thakkar",
+  "businessType": "music",
+  "description": "Anchor Mansi Thakkar is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 64325,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:54.955Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e17e"
+  },
+  "businessName": "Sur Music Band",
+  "businessType": "music",
+  "description": "Sur Music Band is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 76949,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e17f"
+  },
+  "businessName": "1920 Event Organisers",
+  "businessType": "music",
+  "description": "1920 Event Organisers is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23691,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e180"
+  },
+  "businessName": "Shree Ganesh Sound Dj",
+  "businessType": "music",
+  "description": "Shree Ganesh Sound Dj is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 75733,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e181"
+  },
+  "businessName": "Swastik Musical Group",
+  "businessType": "music",
+  "description": "Swastik Musical Group is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 76807,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e182"
+  },
+  "businessName": "Baba Ramdev Nd Rajan",
+  "businessType": "music",
+  "description": "Baba Ramdev Nd Rajan is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 27336,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.227Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e183"
+  },
+  "businessName": "SHUBH D.J & SOUND",
+  "businessType": "music",
+  "description": "SHUBH D.J & SOUND is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 56256,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.259Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e184"
+  },
+  "businessName": "Raj Infotech",
+  "businessType": "music",
+  "description": "Raj Infotech is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40919,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e185"
+  },
+  "businessName": "Dj Vandan",
+  "businessType": "music",
+  "description": "Dj Vandan is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 78580,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.357Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e186"
+  },
+  "businessName": "D-effects Dance Studio",
+  "businessType": "music",
+  "description": "D-effects Dance Studio is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 14842,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e187"
+  },
+  "businessName": "Ashok Music Band",
+  "businessType": "music",
+  "description": "Ashok Music Band is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 60606,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.439Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e188"
+  },
+  "businessName": "Jay Goga Dj",
+  "businessType": "music",
+  "description": "Jay Goga Dj is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 53288,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.479Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e189"
+  },
+  "businessName": "Dj Rajan",
+  "businessType": "music",
+  "description": "Dj Rajan is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22475,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e18a"
+  },
+  "businessName": "Manpasand Sound",
+  "businessType": "music",
+  "description": "Manpasand Sound is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 14374,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e18b"
+  },
+  "businessName": "Jd Group Entertainment",
+  "businessType": "music",
+  "description": "Jd Group Entertainment is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 43921,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e18c"
+  },
+  "businessName": "Deep Music Band",
+  "businessType": "music",
+  "description": "Deep Music Band is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 67925,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e18d"
+  },
+  "businessName": "Anchor Hardik Vogue Events and Entertainment",
+  "businessType": "music",
+  "description": "Anchor Hardik Vogue Events and Entertainment is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46978,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.700Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e18e"
+  },
+  "businessName": "Dream Utsav",
+  "businessType": "music",
+  "description": "Dream Utsav is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 52335,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.742Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e18f"
+  },
+  "businessName": "HARI OM ORCHESTRA",
+  "businessType": "music",
+  "description": "HARI OM ORCHESTRA is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40586,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.785Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e190"
+  },
+  "businessName": "Azad Events and Entertainment",
+  "businessType": "music",
+  "description": "Azad Events and Entertainment is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49422,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.821Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e191"
+  },
+  "businessName": "Chetan B Play Zone",
+  "businessType": "music",
+  "description": "Chetan B Play Zone is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 32317,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.867Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e192"
+  },
+  "businessName": "Rising Star All In One",
+  "businessType": "music",
+  "description": "Rising Star All In One is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 73620,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.924Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e193"
+  },
+  "businessName": "Jay Rukhad Sound",
+  "businessType": "music",
+  "description": "Jay Rukhad Sound is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 79849,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.963Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e194"
+  },
+  "businessName": "Natraj DJ Sound",
+  "businessType": "music",
+  "description": "Natraj DJ Sound is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 36528,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:55.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e195"
+  },
+  "businessName": "Pintu Dholis and Entertainment",
+  "businessType": "music",
+  "description": "Pintu Dholis and Entertainment is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31111,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e196"
+  },
+  "businessName": "Deco Vision India",
+  "businessType": "music",
+  "description": "Deco Vision India is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37094,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e197"
+  },
+  "businessName": "Dj Parth",
+  "businessType": "music",
+  "description": "Dj Parth is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41280,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.167Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e198"
+  },
+  "businessName": "EYE 4 Event",
+  "businessType": "music",
+  "description": "EYE 4 Event is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 16016,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.199Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e199"
+  },
+  "businessName": "Dj Vijay",
+  "businessType": "music",
+  "description": "Dj Vijay is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23908,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e19a"
+  },
+  "businessName": "Distinkt Happeniings",
+  "businessType": "music",
+  "description": "Distinkt Happeniings is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 67456,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.287Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e19b"
+  },
+  "businessName": "New World Sound & Solution",
+  "businessType": "music",
+  "description": "New World Sound & Solution is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 79251,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.356Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e19c"
+  },
+  "businessName": "Arham Events and Mahavir Trading Company",
+  "businessType": "music",
+  "description": "Arham Events and Mahavir Trading Company is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 77718,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.445Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e19d"
+  },
+  "businessName": "Ex Healer Event Management",
+  "businessType": "music",
+  "description": "Ex Healer Event Management is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 77402,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.525Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e19e"
+  },
+  "businessName": "Aim Services",
+  "businessType": "music",
+  "description": "Aim Services is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 74337,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.590Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e19f"
+  },
+  "businessName": "Vishwa Decorator",
+  "businessType": "music",
+  "description": "Vishwa Decorator is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 20067,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a0"
+  },
+  "businessName": "Mahi Events",
+  "businessType": "music",
+  "description": "Mahi Events is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26148,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a1"
+  },
+  "businessName": "Amora Events",
+  "businessType": "music",
+  "description": "Amora Events is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 21351,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.716Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a2"
+  },
+  "businessName": "Shreyanshi Sound",
+  "businessType": "music",
+  "description": "Shreyanshi Sound is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 72415,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a3"
+  },
+  "businessName": "Mansoori Sound And Decoration",
+  "businessType": "music",
+  "description": "Mansoori Sound And Decoration is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29509,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a4"
+  },
+  "businessName": "Lucky Music Band",
+  "businessType": "music",
+  "description": "Lucky Music Band is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 78593,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.813Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a5"
+  },
+  "businessName": "Khodal Events Ahmedabad",
+  "businessType": "music",
+  "description": "Khodal Events Ahmedabad is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46553,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a6"
+  },
+  "businessName": "System & Sounds",
+  "businessType": "music",
+  "description": "System & Sounds is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 58177,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.888Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a7"
+  },
+  "businessName": "Mrudang Vrund",
+  "businessType": "music",
+  "description": "Mrudang Vrund is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69842,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.923Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a8"
+  },
+  "businessName": "DJ Harsh HADD Dj's",
+  "businessType": "music",
+  "description": "DJ Harsh HADD Dj's is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 70224,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1a9"
+  },
+  "businessName": "Royal Punjabi Dhol Players",
+  "businessType": "music",
+  "description": "Royal Punjabi Dhol Players is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 68882,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:56.996Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1aa"
+  },
+  "businessName": "Jash Event Company",
+  "businessType": "music",
+  "description": "Jash Event Company is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29583,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:57.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ab"
+  },
+  "businessName": "Ambika Music Band & DJ",
+  "businessType": "music",
+  "description": "Ambika Music Band & DJ is a premium music service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 56934,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:57.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ac"
+  },
+  "businessName": "Audio Onik Entertainment",
+  "businessType": "music",
+  "description": "Audio Onik Entertainment is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31487,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:25.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ad"
+  },
+  "businessName": "D J Sagar",
+  "businessType": "music",
+  "description": "D J Sagar is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 73705,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:25.745Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ae"
+  },
+  "businessName": "Rock Star Sound & Lights",
+  "businessType": "music",
+  "description": "Rock Star Sound & Lights is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 61386,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:25.835Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1af"
+  },
+  "businessName": "Satnam Decor & Event",
+  "businessType": "music",
+  "description": "Satnam Decor & Event is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 38823,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:25.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b0"
+  },
+  "businessName": "Genesis Lifexplorer Community",
+  "businessType": "music",
+  "description": "Genesis Lifexplorer Community is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 21305,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:25.969Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b1"
+  },
+  "businessName": "R Electro Dj Academy",
+  "businessType": "music",
+  "description": "R Electro Dj Academy is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 62723,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.036Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b2"
+  },
+  "businessName": "DJ SHUBHAM & ALL EVENTS MANAGEMENT",
+  "businessType": "music",
+  "description": "DJ SHUBHAM & ALL EVENTS MANAGEMENT is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 55139,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.097Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b3"
+  },
+  "businessName": "Mr Dream Events",
+  "businessType": "music",
+  "description": "Mr Dream Events is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26052,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b4"
+  },
+  "businessName": "Sai Sonu Venus Sound",
+  "businessType": "music",
+  "description": "Sai Sonu Venus Sound is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31517,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b5"
+  },
+  "businessName": "Shree Maruti Sound and Dj",
+  "businessType": "music",
+  "description": "Shree Maruti Sound and Dj is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 71702,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.226Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b6"
+  },
+  "businessName": "Leo Entertainment (Dj Tushar)",
+  "businessType": "music",
+  "description": "Leo Entertainment (Dj Tushar) is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 63926,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.263Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b7"
+  },
+  "businessName": "R K Bagiwala",
+  "businessType": "music",
+  "description": "R K Bagiwala is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 17879,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.304Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b8"
+  },
+  "businessName": "Sr Sound (R)",
+  "businessType": "music",
+  "description": "Sr Sound (R) is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69074,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1b9"
+  },
+  "businessName": "Narayan Enterprises",
+  "businessType": "music",
+  "description": "Narayan Enterprises is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 50080,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.426Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ba"
+  },
+  "businessName": "Money Event Planner",
+  "businessType": "music",
+  "description": "Money Event Planner is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 73117,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.592Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1bb"
+  },
+  "businessName": "Genesis Events & Entertainment",
+  "businessType": "music",
+  "description": "Genesis Events & Entertainment is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 74672,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.681Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1bc"
+  },
+  "businessName": "White Collar Events",
+  "businessType": "music",
+  "description": "White Collar Events is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26343,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1bd"
+  },
+  "businessName": "Vk Sound Lights Truss and Sfx",
+  "businessType": "music",
+  "description": "Vk Sound Lights Truss and Sfx is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69602,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.859Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1be"
+  },
+  "businessName": "Lpk Events",
+  "businessType": "music",
+  "description": "Lpk Events is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 11686,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.919Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1bf"
+  },
+  "businessName": "Shafi And Party",
+  "businessType": "music",
+  "description": "Shafi And Party is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 19024,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:26.963Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c0"
+  },
+  "businessName": "Prasang Events",
+  "businessType": "music",
+  "description": "Prasang Events is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41079,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c1"
+  },
+  "businessName": "Perfect Event Management & Sound",
+  "businessType": "music",
+  "description": "Perfect Event Management & Sound is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34240,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.039Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c2"
+  },
+  "businessName": "Absolute Sound",
+  "businessType": "music",
+  "description": "Absolute Sound is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51049,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c3"
+  },
+  "businessName": "Glamour Manage Eventz",
+  "businessType": "music",
+  "description": "Glamour Manage Eventz is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 55239,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.109Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c4"
+  },
+  "businessName": "Dj Jackk Official",
+  "businessType": "music",
+  "description": "Dj Jackk Official is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 79333,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.149Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c5"
+  },
+  "businessName": "DPSL (Dj Denish)",
+  "businessType": "music",
+  "description": "DPSL (Dj Denish) is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51497,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c6"
+  },
+  "businessName": "Matangi Party Plot",
+  "businessType": "music",
+  "description": "Matangi Party Plot is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 74706,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c7"
+  },
+  "businessName": "Radha Krishna Dj & Sound System",
+  "businessType": "music",
+  "description": "Radha Krishna Dj & Sound System is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 74777,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c8"
+  },
+  "businessName": "RK Events",
+  "businessType": "music",
+  "description": "RK Events is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69881,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.351Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1c9"
+  },
+  "businessName": "Apple Sound",
+  "businessType": "music",
+  "description": "Apple Sound is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 32142,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.388Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ca"
+  },
+  "businessName": "Dj Krishna & Events",
+  "businessType": "music",
+  "description": "Dj Krishna & Events is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22139,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.445Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1cb"
+  },
+  "businessName": "Trilok Party Lawns",
+  "businessType": "music",
+  "description": "Trilok Party Lawns is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 21321,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.502Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1cc"
+  },
+  "businessName": "Djvivek Sevni",
+  "businessType": "music",
+  "description": "Djvivek Sevni is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45592,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1cd"
+  },
+  "businessName": "Dj Swami Event Management",
+  "businessType": "music",
+  "description": "Dj Swami Event Management is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49185,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ce"
+  },
+  "businessName": "Shree Sai Catering",
+  "businessType": "music",
+  "description": "Shree Sai Catering is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49025,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.622Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1cf"
+  },
+  "businessName": "Dj Swami",
+  "businessType": "music",
+  "description": "Dj Swami is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66763,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.659Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d0"
+  },
+  "businessName": "Dj Ricky",
+  "businessType": "music",
+  "description": "Dj Ricky is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69200,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.691Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d1"
+  },
+  "businessName": "Khelaiya DJ Sound",
+  "businessType": "music",
+  "description": "Khelaiya DJ Sound is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 16137,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.723Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d2"
+  },
+  "businessName": "Perfect Glow Event & Entertainment",
+  "businessType": "music",
+  "description": "Perfect Glow Event & Entertainment is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37244,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.764Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d3"
+  },
+  "businessName": "Zenny Entertainment",
+  "businessType": "music",
+  "description": "Zenny Entertainment is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 64117,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.817Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d4"
+  },
+  "businessName": "Dj Sam",
+  "businessType": "music",
+  "description": "Dj Sam is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29869,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d5"
+  },
+  "businessName": "Mehek Sound Sales & Service",
+  "businessType": "music",
+  "description": "Mehek Sound Sales & Service is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 28177,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.886Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d6"
+  },
+  "businessName": "Dj Neel",
+  "businessType": "music",
+  "description": "Dj Neel is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 76517,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d7"
+  },
+  "businessName": "Aadhyashakti Dj Bedkuva",
+  "businessType": "music",
+  "description": "Aadhyashakti Dj Bedkuva is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 11405,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:27.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d8"
+  },
+  "businessName": "Mahalaxmi Dj",
+  "businessType": "music",
+  "description": "Mahalaxmi Dj is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 52417,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:28.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1d9"
+  },
+  "businessName": "Dj Tejas",
+  "businessType": "music",
+  "description": "Dj Tejas is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 25755,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:28.044Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1da"
+  },
+  "businessName": "Khodalraj Raj Dj Sound System",
+  "businessType": "music",
+  "description": "Khodalraj Raj Dj Sound System is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 12169,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:28.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1db"
+  },
+  "businessName": "Sai Infotech",
+  "businessType": "music",
+  "description": "Sai Infotech is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 27708,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:28.112Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1dc"
+  },
+  "businessName": "S R Sound",
+  "businessType": "music",
+  "description": "S R Sound is a premium music service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 12358,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:28.142Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1dd"
+  },
+  "businessName": "Rohit Entertainment Event",
+  "businessType": "music",
+  "description": "Rohit Entertainment Event is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 10621,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:54.790Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1de"
+  },
+  "businessName": "N S Musical Group Of Events",
+  "businessType": "music",
+  "description": "N S Musical Group Of Events is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 27672,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:54.827Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1df"
+  },
+  "businessName": "Av Enterainment Event",
+  "businessType": "music",
+  "description": "Av Enterainment Event is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23020,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:54.857Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e0"
+  },
+  "businessName": "Dheeraj Panjabi Dhol",
+  "businessType": "music",
+  "description": "Dheeraj Panjabi Dhol is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 39226,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:54.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e1"
+  },
+  "businessName": "Rocky Nasik Band",
+  "businessType": "music",
+  "description": "Rocky Nasik Band is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 27075,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:54.932Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e2"
+  },
+  "businessName": "Dynamic Music & Event",
+  "businessType": "music",
+  "description": "Dynamic Music & Event is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 72787,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:54.969Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e3"
+  },
+  "businessName": "Vip Events & Decorations",
+  "businessType": "music",
+  "description": "Vip Events & Decorations is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66324,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.007Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e4"
+  },
+  "businessName": "Rutu Event Management",
+  "businessType": "music",
+  "description": "Rutu Event Management is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 18028,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e5"
+  },
+  "businessName": "Dj Spartan",
+  "businessType": "music",
+  "description": "Dj Spartan is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 17723,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.075Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e6"
+  },
+  "businessName": "Bharat Royal Dholies Group Vadodara",
+  "businessType": "music",
+  "description": "Bharat Royal Dholies Group Vadodara is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 57275,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.109Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e7"
+  },
+  "businessName": "D J Shiv",
+  "businessType": "music",
+  "description": "D J Shiv is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46010,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.146Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e8"
+  },
+  "businessName": "KANHA EVENT AND DECORATION",
+  "businessType": "music",
+  "description": "KANHA EVENT AND DECORATION is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45535,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.179Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1e9"
+  },
+  "businessName": "Prasang Music Band & DJ Jay",
+  "businessType": "music",
+  "description": "Prasang Music Band & DJ Jay is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 68900,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ea"
+  },
+  "businessName": "Ranveer Entertainment",
+  "businessType": "music",
+  "description": "Ranveer Entertainment is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45874,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1eb"
+  },
+  "businessName": "Dj Meet Sound",
+  "businessType": "music",
+  "description": "Dj Meet Sound is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 72194,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.338Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ec"
+  },
+  "businessName": "Jeet Entertainment Group",
+  "businessType": "music",
+  "description": "Jeet Entertainment Group is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 26493,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ed"
+  },
+  "businessName": "Sound Authority",
+  "businessType": "music",
+  "description": "Sound Authority is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 61502,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.425Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ee"
+  },
+  "businessName": "Dj Moskitto",
+  "businessType": "music",
+  "description": "Dj Moskitto is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31892,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ef"
+  },
+  "businessName": "Jay Ambe Sound Padra",
+  "businessType": "music",
+  "description": "Jay Ambe Sound Padra is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 47297,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.493Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f0"
+  },
+  "businessName": "Dj Yuvi",
+  "businessType": "music",
+  "description": "Dj Yuvi is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45470,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.580Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f1"
+  },
+  "businessName": "dj yuvi",
+  "businessType": "music",
+  "description": "dj yuvi is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40597,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f2"
+  },
+  "businessName": "VC AUDIO - VINAYAK CABINETS",
+  "businessType": "music",
+  "description": "VC AUDIO - VINAYAK CABINETS is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 20419,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.716Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f3"
+  },
+  "businessName": "Rockers Sound Dj Kiran",
+  "businessType": "music",
+  "description": "Rockers Sound Dj Kiran is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69277,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f4"
+  },
+  "businessName": "Vinayak Cabinets",
+  "businessType": "music",
+  "description": "Vinayak Cabinets is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 18940,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f5"
+  },
+  "businessName": "M B Sound & Light",
+  "businessType": "music",
+  "description": "M B Sound & Light is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 54548,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.874Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f6"
+  },
+  "businessName": "Dj3Netra Sound",
+  "businessType": "music",
+  "description": "Dj3Netra Sound is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24567,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.910Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f7"
+  },
+  "businessName": "Jay Ambe Sound Service",
+  "businessType": "music",
+  "description": "Jay Ambe Sound Service is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 15666,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.945Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f8"
+  },
+  "businessName": "Mann Events",
+  "businessType": "music",
+  "description": "Mann Events is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 75958,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:55.993Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1f9"
+  },
+  "businessName": "Max Sound",
+  "businessType": "music",
+  "description": "Max Sound is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46795,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.058Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1fa"
+  },
+  "businessName": "Dj War Brother",
+  "businessType": "music",
+  "description": "Dj War Brother is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 23646,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.098Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1fb"
+  },
+  "businessName": "Dj Ved",
+  "businessType": "music",
+  "description": "Dj Ved is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 12673,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1fc"
+  },
+  "businessName": "Dj Gds Pro Audio",
+  "businessType": "music",
+  "description": "Dj Gds Pro Audio is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 56493,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1fd"
+  },
+  "businessName": "Ek Dantay Sound",
+  "businessType": "music",
+  "description": "Ek Dantay Sound is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 32132,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.201Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1fe"
+  },
+  "businessName": "Samrat Dj Electronics",
+  "businessType": "music",
+  "description": "Samrat Dj Electronics is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 18457,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e1ff"
+  },
+  "businessName": "Vinayak Sound",
+  "businessType": "music",
+  "description": "Vinayak Sound is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 18066,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.271Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e200"
+  },
+  "businessName": "Dj Mahi Sound System",
+  "businessType": "music",
+  "description": "Dj Mahi Sound System is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 70789,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e201"
+  },
+  "businessName": "S.G.BAGGI WALA",
+  "businessType": "music",
+  "description": "S.G.BAGGI WALA is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 33352,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e202"
+  },
+  "businessName": "DJ Harry",
+  "businessType": "music",
+  "description": "DJ Harry is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 71989,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e203"
+  },
+  "businessName": "Dj Harry",
+  "businessType": "music",
+  "description": "Dj Harry is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34598,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e204"
+  },
+  "businessName": "Dj Kings",
+  "businessType": "music",
+  "description": "Dj Kings is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40077,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.455Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e205"
+  },
+  "businessName": "D J Sheth",
+  "businessType": "music",
+  "description": "D J Sheth is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 57196,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e206"
+  },
+  "businessName": "Dj Bassaster",
+  "businessType": "music",
+  "description": "Dj Bassaster is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 12403,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e207"
+  },
+  "businessName": "Sattva Weddings",
+  "businessType": "music",
+  "description": "Sattva Weddings is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 17858,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.655Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e208"
+  },
+  "businessName": "Djrims",
+  "businessType": "music",
+  "description": "Djrims is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 59791,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e209"
+  },
+  "businessName": "Celebrate",
+  "businessType": "music",
+  "description": "Celebrate is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40416,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e20a"
+  },
+  "businessName": "Mahant Sound Official",
+  "businessType": "music",
+  "description": "Mahant Sound Official is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 39732,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.771Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e20b"
+  },
+  "businessName": "DJ Sai Sound",
+  "businessType": "music",
+  "description": "DJ Sai Sound is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 77359,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.811Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e20c"
+  },
+  "businessName": "Danny Sound",
+  "businessType": "music",
+  "description": "Danny Sound is a premium music service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 21683,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:02:56.845Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e20d"
+  },
+  "businessName": "Paradise Music Event",
+  "businessType": "music",
+  "description": "Paradise Music Event is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 21263,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:25.617Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e20e"
+  },
+  "businessName": "Modern Sound and Decoration",
+  "businessType": "music",
+  "description": "Modern Sound and Decoration is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49369,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:25.834Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e20f"
+  },
+  "businessName": "J K Decoration & Jumbo Cooler On Rent",
+  "businessType": "music",
+  "description": "J K Decoration & Jumbo Cooler On Rent is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40963,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:26.092Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e210"
+  },
+  "businessName": "Hindustan Elektrotekniks",
+  "businessType": "music",
+  "description": "Hindustan Elektrotekniks is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 36457,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:26.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e211"
+  },
+  "businessName": "Modern Sound",
+  "businessType": "music",
+  "description": "Modern Sound is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 15120,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:26.440Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e212"
+  },
+  "businessName": "D J Hasu Shree Hari Sound (S H Events)",
+  "businessType": "music",
+  "description": "D J Hasu Shree Hari Sound (S H Events) is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 67460,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:26.631Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e213"
+  },
+  "businessName": "Impact Events",
+  "businessType": "music",
+  "description": "Impact Events is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66871,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:27.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e214"
+  },
+  "businessName": "Balloon Designer",
+  "businessType": "music",
+  "description": "Balloon Designer is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 36639,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:27.370Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e215"
+  },
+  "businessName": "Gajanan Event Management",
+  "businessType": "music",
+  "description": "Gajanan Event Management is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 78450,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:27.568Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e216"
+  },
+  "businessName": "Modern Sound & Stage Light",
+  "businessType": "music",
+  "description": "Modern Sound & Stage Light is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51940,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:27.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e217"
+  },
+  "businessName": "Libra Events",
+  "businessType": "music",
+  "description": "Libra Events is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66055,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:27.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e218"
+  },
+  "businessName": "Elegance Decor",
+  "businessType": "music",
+  "description": "Elegance Decor is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 60163,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e219"
+  },
+  "businessName": "Payal Dj & Sound System",
+  "businessType": "music",
+  "description": "Payal Dj & Sound System is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29954,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.243Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e21a"
+  },
+  "businessName": "H H Events",
+  "businessType": "music",
+  "description": "H H Events is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22707,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.338Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e21b"
+  },
+  "businessName": "Shakti Sound System",
+  "businessType": "music",
+  "description": "Shakti Sound System is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 60091,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.455Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e21c"
+  },
+  "businessName": "INDIA SOUND & DJ Live",
+  "businessType": "music",
+  "description": "INDIA SOUND & DJ Live is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41966,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.537Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e21d"
+  },
+  "businessName": "Youngstar Events",
+  "businessType": "music",
+  "description": "Youngstar Events is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 52427,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.609Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e21e"
+  },
+  "businessName": "Vasant Sound Services",
+  "businessType": "music",
+  "description": "Vasant Sound Services is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 59073,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e21f"
+  },
+  "businessName": "Dj Vishal",
+  "businessType": "music",
+  "description": "Dj Vishal is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49845,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.705Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e220"
+  },
+  "businessName": "Dj Brij",
+  "businessType": "music",
+  "description": "Dj Brij is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 27025,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e221"
+  },
+  "businessName": "Mishwa Dj Sound & Lighting",
+  "businessType": "music",
+  "description": "Mishwa Dj Sound & Lighting is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66264,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e222"
+  },
+  "businessName": "Aatman Group Of Events",
+  "businessType": "music",
+  "description": "Aatman Group Of Events is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 11920,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.795Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e223"
+  },
+  "businessName": "Sitaram Sound System",
+  "businessType": "music",
+  "description": "Sitaram Sound System is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 57306,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.827Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e224"
+  },
+  "businessName": "Shree Rokadiya Dj",
+  "businessType": "music",
+  "description": "Shree Rokadiya Dj is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 75811,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e225"
+  },
+  "businessName": "Rubby Events",
+  "businessType": "music",
+  "description": "Rubby Events is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 42936,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.899Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e226"
+  },
+  "businessName": "Shiv Sound&Dj",
+  "businessType": "music",
+  "description": "Shiv Sound&Dj is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51489,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:28.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e228"
+  },
+  "businessName": "Shiv Sound & Dj",
+  "businessType": "music",
+  "description": "Shiv Sound & Dj is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 61372,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:29.237Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e229"
+  },
+  "businessName": "Noor Event",
+  "businessType": "music",
+  "description": "Noor Event is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 29602,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:29.383Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e22a"
+  },
+  "businessName": "DJ Mox",
+  "businessType": "music",
+  "description": "DJ Mox is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 67617,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:29.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e22b"
+  },
+  "businessName": "DJ SAMRAT",
+  "businessType": "music",
+  "description": "DJ SAMRAT is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 62148,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:29.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e22c"
+  },
+  "businessName": "Vk Dj Sound System",
+  "businessType": "music",
+  "description": "Vk Dj Sound System is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 62043,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:29.757Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e22d"
+  },
+  "businessName": "Augment Entertainment",
+  "businessType": "music",
+  "description": "Augment Entertainment is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 64509,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:29.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e22e"
+  },
+  "businessName": "DJ Abhishake",
+  "businessType": "music",
+  "description": "DJ Abhishake is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 22119,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:29.995Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e22f"
+  },
+  "businessName": "The Special Events",
+  "businessType": "music",
+  "description": "The Special Events is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 79942,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.067Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e230"
+  },
+  "businessName": "Rd Sound",
+  "businessType": "music",
+  "description": "Rd Sound is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 52385,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e231"
+  },
+  "businessName": "Shree Sound Service",
+  "businessType": "music",
+  "description": "Shree Sound Service is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41821,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.239Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e232"
+  },
+  "businessName": "Shree Akshar Party Lawns",
+  "businessType": "music",
+  "description": "Shree Akshar Party Lawns is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24500,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.311Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e233"
+  },
+  "businessName": "Royal Event's",
+  "businessType": "music",
+  "description": "Royal Event's is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 11587,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.369Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e234"
+  },
+  "businessName": "Joker Sounds",
+  "businessType": "music",
+  "description": "Joker Sounds is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34473,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e235"
+  },
+  "businessName": "Shiv Sound",
+  "businessType": "music",
+  "description": "Shiv Sound is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41203,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e236"
+  },
+  "businessName": "Jay Khodiyar Dj",
+  "businessType": "music",
+  "description": "Jay Khodiyar Dj is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48813,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e237"
+  },
+  "businessName": "Yo...r Event Management",
+  "businessType": "music",
+  "description": "Yo...r Event Management is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44964,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e238"
+  },
+  "businessName": "Vaghela Sounds & Dj",
+  "businessType": "music",
+  "description": "Vaghela Sounds & Dj is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 28219,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.693Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e239"
+  },
+  "businessName": "Dj Aayan",
+  "businessType": "music",
+  "description": "Dj Aayan is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 38584,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.723Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e23a"
+  },
+  "businessName": "Classic Sound&Dj",
+  "businessType": "music",
+  "description": "Classic Sound&Dj is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49665,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.754Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e23b"
+  },
+  "businessName": "Rahul Bengals Dj & Sounds",
+  "businessType": "music",
+  "description": "Rahul Bengals Dj & Sounds is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 36415,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.788Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e23c"
+  },
+  "businessName": "Ramdut Sound System and Events",
+  "businessType": "music",
+  "description": "Ramdut Sound System and Events is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 18913,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.823Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e23d"
+  },
+  "businessName": "Om Sound",
+  "businessType": "music",
+  "description": "Om Sound is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 24309,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.862Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f70a43964c0cf4c7e23e"
+  },
+  "businessName": "J.k. DJ & Sound",
+  "businessType": "music",
+  "description": "J.k. DJ & Sound is a premium music service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37354,
+    "pricingType": "Per Event"
+  },
+  "services": [
+    "DJ",
+    "Sound System"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?music,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:03:30.935Z"
+  }
+}]

@@ -1,0 +1,5478 @@
+[{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e305"
+  },
+  "businessName": "Krishna Movies",
+  "businessType": "photography",
+  "description": "Krishna Movies is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 126635,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e306"
+  },
+  "businessName": "Dhruvin Video",
+  "businessType": "photography",
+  "description": "Dhruvin Video is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 86000,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e307"
+  },
+  "businessName": "Mehra Studio Photography",
+  "businessType": "photography",
+  "description": "Mehra Studio Photography is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 42021,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e308"
+  },
+  "businessName": "The Inspire",
+  "businessType": "photography",
+  "description": "The Inspire is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 96920,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.294Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e309"
+  },
+  "businessName": "4 Focus Photography",
+  "businessType": "photography",
+  "description": "4 Focus Photography is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 74288,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.326Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e30a"
+  },
+  "businessName": "The Knot Films",
+  "businessType": "photography",
+  "description": "The Knot Films is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 127576,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e30b"
+  },
+  "businessName": "Shivhari Hospitality",
+  "businessType": "photography",
+  "description": "Shivhari Hospitality is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 95290,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e30c"
+  },
+  "businessName": "Gsc Edits",
+  "businessType": "photography",
+  "description": "Gsc Edits is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 105142,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e30d"
+  },
+  "businessName": "Klickster The Films",
+  "businessType": "photography",
+  "description": "Klickster The Films is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 77280,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.462Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e30e"
+  },
+  "businessName": "Akash Event Organizer",
+  "businessType": "photography",
+  "description": "Akash Event Organizer is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 54984,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e30f"
+  },
+  "businessName": "Munna Bhai Photographer",
+  "businessType": "photography",
+  "description": "Munna Bhai Photographer is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 121297,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.512Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e310"
+  },
+  "businessName": "The Cinematic",
+  "businessType": "photography",
+  "description": "The Cinematic is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 128965,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.536Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e311"
+  },
+  "businessName": "EYE 4 Event",
+  "businessType": "photography",
+  "description": "EYE 4 Event is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 120710,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.555Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e312"
+  },
+  "businessName": "Shraddha Studio",
+  "businessType": "photography",
+  "description": "Shraddha Studio is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 77999,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.575Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e313"
+  },
+  "businessName": "Gopi Telefilms",
+  "businessType": "photography",
+  "description": "Gopi Telefilms is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66382,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.596Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e314"
+  },
+  "businessName": "Story Beginning Photography",
+  "businessType": "photography",
+  "description": "Story Beginning Photography is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 95827,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e315"
+  },
+  "businessName": "Parth Photography",
+  "businessType": "photography",
+  "description": "Parth Photography is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51718,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e316"
+  },
+  "businessName": "Vision Dz",
+  "businessType": "photography",
+  "description": "Vision Dz is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51427,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.750Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e317"
+  },
+  "businessName": "Vidhya Digital Studio",
+  "businessType": "photography",
+  "description": "Vidhya Digital Studio is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 101589,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.815Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e318"
+  },
+  "businessName": "Deco Vision India",
+  "businessType": "photography",
+  "description": "Deco Vision India is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31159,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.868Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e319"
+  },
+  "businessName": "Dolphin Movie Art",
+  "businessType": "photography",
+  "description": "Dolphin Movie Art is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 36623,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:05:59.934Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e31a"
+  },
+  "businessName": "Drashy Photography",
+  "businessType": "photography",
+  "description": "Drashy Photography is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 65803,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e31b"
+  },
+  "businessName": "P R Computers",
+  "businessType": "photography",
+  "description": "P R Computers is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 83740,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.079Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e31c"
+  },
+  "businessName": "Fast Click Entertainment",
+  "businessType": "photography",
+  "description": "Fast Click Entertainment is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 37421,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e31d"
+  },
+  "businessName": "Pinnacle Studio",
+  "businessType": "photography",
+  "description": "Pinnacle Studio is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69041,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.215Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e31e"
+  },
+  "businessName": "Kaal Photo Studio",
+  "businessType": "photography",
+  "description": "Kaal Photo Studio is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 73480,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.271Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e31f"
+  },
+  "businessName": "Papaji Photography",
+  "businessType": "photography",
+  "description": "Papaji Photography is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 92444,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e320"
+  },
+  "businessName": "Dharmashya Production & Academy",
+  "businessType": "photography",
+  "description": "Dharmashya Production & Academy is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 42931,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e321"
+  },
+  "businessName": "KK STUDIO",
+  "businessType": "photography",
+  "description": "KK STUDIO is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 97607,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.449Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e322"
+  },
+  "businessName": "Siddheshwary Photo Studio",
+  "businessType": "photography",
+  "description": "Siddheshwary Photo Studio is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 86710,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e323"
+  },
+  "businessName": "Mummy Tummy Photography",
+  "businessType": "photography",
+  "description": "Mummy Tummy Photography is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 147394,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.587Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e324"
+  },
+  "businessName": "Dreamsnaps.india",
+  "businessType": "photography",
+  "description": "Dreamsnaps.india is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41580,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e325"
+  },
+  "businessName": "Honest Memorable Photography",
+  "businessType": "photography",
+  "description": "Honest Memorable Photography is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 125432,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e326"
+  },
+  "businessName": "Shukan Image",
+  "businessType": "photography",
+  "description": "Shukan Image is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 34778,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.776Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e327"
+  },
+  "businessName": "Trivedi Creative Photo and Reel Studio",
+  "businessType": "photography",
+  "description": "Trivedi Creative Photo and Reel Studio is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 136311,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:00.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e328"
+  },
+  "businessName": "Rising Star All In One",
+  "businessType": "photography",
+  "description": "Rising Star All In One is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 78207,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.005Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e329"
+  },
+  "businessName": "The Selfie World Films",
+  "businessType": "photography",
+  "description": "The Selfie World Films is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 127025,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e32a"
+  },
+  "businessName": "Om Creative",
+  "businessType": "photography",
+  "description": "Om Creative is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 125728,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.130Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e32b"
+  },
+  "businessName": "Jp Photography",
+  "businessType": "photography",
+  "description": "Jp Photography is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 144093,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.174Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e32c"
+  },
+  "businessName": "Kesariyo Photo Studio",
+  "businessType": "photography",
+  "description": "Kesariyo Photo Studio is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 137807,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.210Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e32d"
+  },
+  "businessName": "Institute For Photography & Video Film Making - Excellence - IPE India",
+  "businessType": "photography",
+  "description": "Institute For Photography & Video Film Making - Excellence - IPE India is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 113564,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e32e"
+  },
+  "businessName": "Wellframe By Hr",
+  "businessType": "photography",
+  "description": "Wellframe By Hr is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 81330,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.297Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e32f"
+  },
+  "businessName": "Content Crest Media",
+  "businessType": "photography",
+  "description": "Content Crest Media is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 123116,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.350Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e330"
+  },
+  "businessName": "Shriji Photo Studio",
+  "businessType": "photography",
+  "description": "Shriji Photo Studio is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 100736,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e331"
+  },
+  "businessName": "Shree Vinayak Photo Studio",
+  "businessType": "photography",
+  "description": "Shree Vinayak Photo Studio is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 68567,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.467Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e332"
+  },
+  "businessName": "Storybox Cinema",
+  "businessType": "photography",
+  "description": "Storybox Cinema is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31050,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.530Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e333"
+  },
+  "businessName": "Kohen",
+  "businessType": "photography",
+  "description": "Kohen is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44717,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.590Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e334"
+  },
+  "businessName": "Kumkum Digital",
+  "businessType": "photography",
+  "description": "Kumkum Digital is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 117231,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e335"
+  },
+  "businessName": "Wide Motion Films",
+  "businessType": "photography",
+  "description": "Wide Motion Films is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 109067,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.662Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e336"
+  },
+  "businessName": "Studio Airport",
+  "businessType": "photography",
+  "description": "Studio Airport is a premium photography service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 149646,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:01.703Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e337"
+  },
+  "businessName": "Heritage Wedding Studio",
+  "businessType": "photography",
+  "description": "Heritage Wedding Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49703,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.103Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e338"
+  },
+  "businessName": "Clickzy Photo",
+  "businessType": "photography",
+  "description": "Clickzy Photo is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 75761,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e339"
+  },
+  "businessName": "Creative Eventwala",
+  "businessType": "photography",
+  "description": "Creative Eventwala is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 54947,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e33a"
+  },
+  "businessName": "Rudra Motion Films Production",
+  "businessType": "photography",
+  "description": "Rudra Motion Films Production is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 106031,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.302Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e33b"
+  },
+  "businessName": "Dhvani Production",
+  "businessType": "photography",
+  "description": "Dhvani Production is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 133588,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.341Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e33c"
+  },
+  "businessName": "Dreams Video",
+  "businessType": "photography",
+  "description": "Dreams Video is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 122715,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.379Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e33d"
+  },
+  "businessName": "Pixel Films Editing",
+  "businessType": "photography",
+  "description": "Pixel Films Editing is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 85628,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.443Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e33e"
+  },
+  "businessName": "Mr Dream Events",
+  "businessType": "photography",
+  "description": "Mr Dream Events is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 86822,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.489Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e33f"
+  },
+  "businessName": "Cinera Photo & Video",
+  "businessType": "photography",
+  "description": "Cinera Photo & Video is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 87242,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.546Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e340"
+  },
+  "businessName": "Shreeji Modeling Studio",
+  "businessType": "photography",
+  "description": "Shreeji Modeling Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 145757,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.605Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e341"
+  },
+  "businessName": "Rudraay Photography & Baby Studio",
+  "businessType": "photography",
+  "description": "Rudraay Photography & Baby Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31722,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.662Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e342"
+  },
+  "businessName": "Shree Creation Visual Production",
+  "businessType": "photography",
+  "description": "Shree Creation Visual Production is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 77734,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.716Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e343"
+  },
+  "businessName": "Shree Rang Photo Studio",
+  "businessType": "photography",
+  "description": "Shree Rang Photo Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 127001,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.769Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e344"
+  },
+  "businessName": "Rinku Video Lab",
+  "businessType": "photography",
+  "description": "Rinku Video Lab is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 117948,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.823Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e345"
+  },
+  "businessName": "Stories By Milan",
+  "businessType": "photography",
+  "description": "Stories By Milan is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 88372,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.863Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e346"
+  },
+  "businessName": "Soni Events",
+  "businessType": "photography",
+  "description": "Soni Events is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 53553,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.900Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e347"
+  },
+  "businessName": "Royal Xcloosive Photography",
+  "businessType": "photography",
+  "description": "Royal Xcloosive Photography is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 103697,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.935Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e348"
+  },
+  "businessName": "BR Modeling & Designing House",
+  "businessType": "photography",
+  "description": "BR Modeling & Designing House is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 149103,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:29.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e349"
+  },
+  "businessName": "Om Digital Studio",
+  "businessType": "photography",
+  "description": "Om Digital Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 31444,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e34a"
+  },
+  "businessName": "Rj Studio",
+  "businessType": "photography",
+  "description": "Rj Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 93355,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.108Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e34b"
+  },
+  "businessName": "Pruthvi Studio",
+  "businessType": "photography",
+  "description": "Pruthvi Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 142377,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e34c"
+  },
+  "businessName": "Gohil Photo Studio",
+  "businessType": "photography",
+  "description": "Gohil Photo Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 61400,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.232Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e34d"
+  },
+  "businessName": "Vishwas Advertising & Studio",
+  "businessType": "photography",
+  "description": "Vishwas Advertising & Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 90356,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.287Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e34e"
+  },
+  "businessName": "Vikalp Photo",
+  "businessType": "photography",
+  "description": "Vikalp Photo is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 53360,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e34f"
+  },
+  "businessName": "The Wedding Destination",
+  "businessType": "photography",
+  "description": "The Wedding Destination is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 71861,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e350"
+  },
+  "businessName": "Shree Siddhi Vinayak Add Photography",
+  "businessType": "photography",
+  "description": "Shree Siddhi Vinayak Add Photography is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66284,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.414Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e352"
+  },
+  "businessName": "Rajput Film Production House",
+  "businessType": "photography",
+  "description": "Rajput Film Production House is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 57115,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e354"
+  },
+  "businessName": "Wedding Culture India",
+  "businessType": "photography",
+  "description": "Wedding Culture India is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 99053,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e355"
+  },
+  "businessName": "Ratnaraj Digital Studio",
+  "businessType": "photography",
+  "description": "Ratnaraj Digital Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 51892,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e356"
+  },
+  "businessName": "S S Entertainment",
+  "businessType": "photography",
+  "description": "S S Entertainment is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 122027,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e357"
+  },
+  "businessName": "Srinivasa Photography",
+  "businessType": "photography",
+  "description": "Srinivasa Photography is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 72681,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.759Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e358"
+  },
+  "businessName": "Rhythm Orchestra and Event Management",
+  "businessType": "photography",
+  "description": "Rhythm Orchestra and Event Management is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 109181,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.796Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e359"
+  },
+  "businessName": "Payal Studio Pvt Ltd",
+  "businessType": "photography",
+  "description": "Payal Studio Pvt Ltd is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 44550,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.833Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e35a"
+  },
+  "businessName": "Jmd Tourism and Logistics Corporation",
+  "businessType": "photography",
+  "description": "Jmd Tourism and Logistics Corporation is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 122742,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.860Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e35b"
+  },
+  "businessName": "Modheshwari Studio & Lab",
+  "businessType": "photography",
+  "description": "Modheshwari Studio & Lab is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48962,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.880Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e35c"
+  },
+  "businessName": "Jay Trivedi Photography",
+  "businessType": "photography",
+  "description": "Jay Trivedi Photography is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 98818,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:30.928Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e35d"
+  },
+  "businessName": "Shubham Studio",
+  "businessType": "photography",
+  "description": "Shubham Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 67063,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e35e"
+  },
+  "businessName": "Beyond Photography",
+  "businessType": "photography",
+  "description": "Beyond Photography is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 66489,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e35f"
+  },
+  "businessName": "Alpine Creation",
+  "businessType": "photography",
+  "description": "Alpine Creation is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 56500,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e360"
+  },
+  "businessName": "Hariom Studio",
+  "businessType": "photography",
+  "description": "Hariom Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 59433,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.180Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e361"
+  },
+  "businessName": "Event Era",
+  "businessType": "photography",
+  "description": "Event Era is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 149157,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e362"
+  },
+  "businessName": "Studios360",
+  "businessType": "photography",
+  "description": "Studios360 is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 117057,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e363"
+  },
+  "businessName": "Apple Films",
+  "businessType": "photography",
+  "description": "Apple Films is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 63709,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.309Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e364"
+  },
+  "businessName": "Vikalp Photography",
+  "businessType": "photography",
+  "description": "Vikalp Photography is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 93578,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.343Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e365"
+  },
+  "businessName": "Weddinside Photo Studio",
+  "businessType": "photography",
+  "description": "Weddinside Photo Studio is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40561,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.367Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e366"
+  },
+  "businessName": "Ultra Films",
+  "businessType": "photography",
+  "description": "Ultra Films is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 91465,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.402Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e367"
+  },
+  "businessName": "Aroma Films",
+  "businessType": "photography",
+  "description": "Aroma Films is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69948,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.466Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e368"
+  },
+  "businessName": "Mac Vision",
+  "businessType": "photography",
+  "description": "Mac Vision is a premium photography service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46112,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:31.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e369"
+  },
+  "businessName": "Imagica Photo and Film",
+  "businessType": "photography",
+  "description": "Imagica Photo and Film is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 63490,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:58.909Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e36a"
+  },
+  "businessName": "Maa Digital Studio",
+  "businessType": "photography",
+  "description": "Maa Digital Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 88112,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:58.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e36b"
+  },
+  "businessName": "Parth Digital Photo Studio",
+  "businessType": "photography",
+  "description": "Parth Digital Photo Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 104774,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e36c"
+  },
+  "businessName": "Capture Your Feelings Photography",
+  "businessType": "photography",
+  "description": "Capture Your Feelings Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 69986,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.098Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e36d"
+  },
+  "businessName": "Sk Creation",
+  "businessType": "photography",
+  "description": "Sk Creation is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 59864,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e36e"
+  },
+  "businessName": "BGC EVENT",
+  "businessType": "photography",
+  "description": "BGC EVENT is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 140435,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.178Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e370"
+  },
+  "businessName": "Click Photography",
+  "businessType": "photography",
+  "description": "Click Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 103281,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e371"
+  },
+  "businessName": "Vip Photography Studio",
+  "businessType": "photography",
+  "description": "Vip Photography Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 129849,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e372"
+  },
+  "businessName": "Kashish Digital Photo Studio",
+  "businessType": "photography",
+  "description": "Kashish Digital Photo Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 81623,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.296Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e373"
+  },
+  "businessName": "Maitri Studio",
+  "businessType": "photography",
+  "description": "Maitri Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 98010,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e374"
+  },
+  "businessName": "Marvellous Photography",
+  "businessType": "photography",
+  "description": "Marvellous Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 75366,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.334Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e375"
+  },
+  "businessName": "Rd Photography Studio",
+  "businessType": "photography",
+  "description": "Rd Photography Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 144965,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e376"
+  },
+  "businessName": "Vishrut Shah Photography",
+  "businessType": "photography",
+  "description": "Vishrut Shah Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 43602,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.379Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e377"
+  },
+  "businessName": "Studio Snap",
+  "businessType": "photography",
+  "description": "Studio Snap is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 70271,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e380"
+  },
+  "businessName": "RK Photography",
+  "businessType": "photography",
+  "description": "RK Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 35142,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:06:59.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e387"
+  },
+  "businessName": "Happy Studio",
+  "businessType": "photography",
+  "description": "Happy Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 42000,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e388"
+  },
+  "businessName": "Het Patel Photography",
+  "businessType": "photography",
+  "description": "Het Patel Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 105634,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.470Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e389"
+  },
+  "businessName": "The Wedding World",
+  "businessType": "photography",
+  "description": "The Wedding World is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 39115,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e38a"
+  },
+  "businessName": "Sceneshine Films",
+  "businessType": "photography",
+  "description": "Sceneshine Films is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 126830,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.541Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e38b"
+  },
+  "businessName": "Malik Digital Studio",
+  "businessType": "photography",
+  "description": "Malik Digital Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 35360,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.579Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e38c"
+  },
+  "businessName": "Blue Sky Photography",
+  "businessType": "photography",
+  "description": "Blue Sky Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 132152,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e38d"
+  },
+  "businessName": "Keval Digital World",
+  "businessType": "photography",
+  "description": "Keval Digital World is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 96734,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.653Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e38e"
+  },
+  "businessName": "Mukesh Studio",
+  "businessType": "photography",
+  "description": "Mukesh Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 74299,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.688Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e38f"
+  },
+  "businessName": "R V Creations & Entertainments",
+  "businessType": "photography",
+  "description": "R V Creations & Entertainments is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 124533,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.717Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e390"
+  },
+  "businessName": "N.k Photography",
+  "businessType": "photography",
+  "description": "N.k Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 63955,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.748Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e391"
+  },
+  "businessName": "Final Click Production India",
+  "businessType": "photography",
+  "description": "Final Click Production India is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 125045,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e392"
+  },
+  "businessName": "Ceremony Photography",
+  "businessType": "photography",
+  "description": "Ceremony Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 78169,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.806Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e393"
+  },
+  "businessName": "Aeni Photography",
+  "businessType": "photography",
+  "description": "Aeni Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 95119,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.836Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e394"
+  },
+  "businessName": "Snapshutter",
+  "businessType": "photography",
+  "description": "Snapshutter is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 148610,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.866Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e395"
+  },
+  "businessName": "Devang Upadhyay Photography",
+  "businessType": "photography",
+  "description": "Devang Upadhyay Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 54897,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.898Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e396"
+  },
+  "businessName": "Shagun Photography",
+  "businessType": "photography",
+  "description": "Shagun Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 130861,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e397"
+  },
+  "businessName": "Creation Photography",
+  "businessType": "photography",
+  "description": "Creation Photography is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 46838,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.960Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e398"
+  },
+  "businessName": "Mann Events",
+  "businessType": "photography",
+  "description": "Mann Events is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 45580,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:00.990Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e399"
+  },
+  "businessName": "Wedding Emotions (photos & Cinema)",
+  "businessType": "photography",
+  "description": "Wedding Emotions (photos & Cinema) is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 131641,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:01.022Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e39a"
+  },
+  "businessName": "Om Sai Digital Studio",
+  "businessType": "photography",
+  "description": "Om Sai Digital Studio is a premium photography service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 48368,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:01.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e39b"
+  },
+  "businessName": "I Digital Studio",
+  "businessType": "photography",
+  "description": "I Digital Studio is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 40398,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:28.475Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e39c"
+  },
+  "businessName": "The Shaadi Bash",
+  "businessType": "photography",
+  "description": "The Shaadi Bash is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 104550,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:28.535Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e39d"
+  },
+  "businessName": "The Wedography",
+  "businessType": "photography",
+  "description": "The Wedography is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 49505,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:28.605Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e39e"
+  },
+  "businessName": "I Do Pictures",
+  "businessType": "photography",
+  "description": "I Do Pictures is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 134731,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:28.664Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e39f"
+  },
+  "businessName": "Studio Eternal",
+  "businessType": "photography",
+  "description": "Studio Eternal is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 53377,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:28.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3a0"
+  },
+  "businessName": "Pooja Video",
+  "businessType": "photography",
+  "description": "Pooja Video is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 77687,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:28.786Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3a2"
+  },
+  "businessName": "Keval Studio",
+  "businessType": "photography",
+  "description": "Keval Studio is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 135033,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:28.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3a3"
+  },
+  "businessName": "Shital Video",
+  "businessType": "photography",
+  "description": "Shital Video is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 114174,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:28.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3a4"
+  },
+  "businessName": "Studio City Flash",
+  "businessType": "photography",
+  "description": "Studio City Flash is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 72888,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3a5"
+  },
+  "businessName": "Riddham Wedding & Team",
+  "businessType": "photography",
+  "description": "Riddham Wedding & Team is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 91847,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.069Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3a6"
+  },
+  "businessName": "Aarshi Holidays and Party Events",
+  "businessType": "photography",
+  "description": "Aarshi Holidays and Party Events is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 123209,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3a7"
+  },
+  "businessName": "Radhe Digital Studio",
+  "businessType": "photography",
+  "description": "Radhe Digital Studio is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 35737,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3a8"
+  },
+  "businessName": "Shashvat Click",
+  "businessType": "photography",
+  "description": "Shashvat Click is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 89362,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3a9"
+  },
+  "businessName": "Prince Digital World",
+  "businessType": "photography",
+  "description": "Prince Digital World is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 98679,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3aa"
+  },
+  "businessName": "Badshah Film Production",
+  "businessType": "photography",
+  "description": "Badshah Film Production is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 131490,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.398Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3ab"
+  },
+  "businessName": "Portrait Films",
+  "businessType": "photography",
+  "description": "Portrait Films is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 63840,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.446Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3ac"
+  },
+  "businessName": "Mr Golden Digital",
+  "businessType": "photography",
+  "description": "Mr Golden Digital is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 56742,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.480Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3ad"
+  },
+  "businessName": "Agmultimedia",
+  "businessType": "photography",
+  "description": "Agmultimedia is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 65314,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.515Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3ae"
+  },
+  "businessName": "Life video",
+  "businessType": "photography",
+  "description": "Life video is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 96483,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.545Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3af"
+  },
+  "businessName": "Pooja Studio",
+  "businessType": "photography",
+  "description": "Pooja Studio is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 87948,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:29.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3be"
+  },
+  "businessName": "Jk Studio Event Management",
+  "businessType": "photography",
+  "description": "Jk Studio Event Management is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 41659,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3bf"
+  },
+  "businessName": "Sadguru World Vision",
+  "businessType": "photography",
+  "description": "Sadguru World Vision is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 30511,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.416Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c0"
+  },
+  "businessName": "Mr User",
+  "businessType": "photography",
+  "description": "Mr User is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 141237,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.461Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c1"
+  },
+  "businessName": "Varudi Photography",
+  "businessType": "photography",
+  "description": "Varudi Photography is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 68962,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c2"
+  },
+  "businessName": "Prakash Studio",
+  "businessType": "photography",
+  "description": "Prakash Studio is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 84094,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.531Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c3"
+  },
+  "businessName": "Rajdhani Memories Maker",
+  "businessType": "photography",
+  "description": "Rajdhani Memories Maker is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 43327,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.573Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c4"
+  },
+  "businessName": "EPGrapher",
+  "businessType": "photography",
+  "description": "EPGrapher is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 30683,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.638Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c5"
+  },
+  "businessName": "Keval Wedding Photographer",
+  "businessType": "photography",
+  "description": "Keval Wedding Photographer is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 90616,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.683Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c6"
+  },
+  "businessName": "DevPixel Photography",
+  "businessType": "photography",
+  "description": "DevPixel Photography is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 130899,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c7"
+  },
+  "businessName": "Photo Union",
+  "businessType": "photography",
+  "description": "Photo Union is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 68630,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.830Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c8"
+  },
+  "businessName": "Mann Meet Pictures Pvt Ltd",
+  "businessType": "photography",
+  "description": "Mann Meet Pictures Pvt Ltd is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 99249,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.885Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3c9"
+  },
+  "businessName": "Ashish Studio",
+  "businessType": "photography",
+  "description": "Ashish Studio is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 128471,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f7fa43964c0cf4c7e3ca"
+  },
+  "businessName": "ABC Color Lab",
+  "businessType": "photography",
+  "description": "ABC Color Lab is a premium photography service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 62861,
+    "pricingType": "Per Day"
+  },
+  "services": [
+    "Wedding Shoot",
+    "Candid Photography"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?photography,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:07:30.979Z"
+  }
+}]

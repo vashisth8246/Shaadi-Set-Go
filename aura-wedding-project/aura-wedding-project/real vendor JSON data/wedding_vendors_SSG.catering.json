@@ -1,0 +1,6039 @@
+[{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0b5"
+  },
+  "businessName": "Vinayak Caterers",
+  "businessType": "catering",
+  "description": "Vinayak Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2038,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:51.721Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0b6"
+  },
+  "businessName": "Seven Star",
+  "businessType": "catering",
+  "description": "Seven Star is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 739,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:51.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0b7"
+  },
+  "businessName": "Hotel Silvera Grand",
+  "businessType": "catering",
+  "description": "Hotel Silvera Grand is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1426,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:51.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0b8"
+  },
+  "businessName": "Southern India",
+  "businessType": "catering",
+  "description": "Southern India is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2412,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:51.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0b9"
+  },
+  "businessName": "Mahi Events",
+  "businessType": "catering",
+  "description": "Mahi Events is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1062,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:51.891Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0ba"
+  },
+  "businessName": "Midnight Munchies",
+  "businessType": "catering",
+  "description": "Midnight Munchies is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1724,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:51.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0bb"
+  },
+  "businessName": "The Spice Root",
+  "businessType": "catering",
+  "description": "The Spice Root is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1402,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:51.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0bc"
+  },
+  "businessName": "Gd Caterers and Catering",
+  "businessType": "catering",
+  "description": "Gd Caterers and Catering is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 855,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.026Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0bd"
+  },
+  "businessName": "Distinkt Happeniings",
+  "businessType": "catering",
+  "description": "Distinkt Happeniings is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 890,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0be"
+  },
+  "businessName": "J P Stewards Pvt Ltd",
+  "businessType": "catering",
+  "description": "J P Stewards Pvt Ltd is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 919,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.098Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0bf"
+  },
+  "businessName": "Punal Caterers",
+  "businessType": "catering",
+  "description": "Punal Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1806,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c0"
+  },
+  "businessName": "Eatfresh",
+  "businessType": "catering",
+  "description": "Eatfresh is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1797,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.169Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c1"
+  },
+  "businessName": "Kp Hostel and Catering Services",
+  "businessType": "catering",
+  "description": "Kp Hostel and Catering Services is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 541,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c2"
+  },
+  "businessName": "Jay Ambey Fastfood & Tiffin Service",
+  "businessType": "catering",
+  "description": "Jay Ambey Fastfood & Tiffin Service is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1589,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c3"
+  },
+  "businessName": "Hommed Foods",
+  "businessType": "catering",
+  "description": "Hommed Foods is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1746,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.308Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c4"
+  },
+  "businessName": "Kamal Caterers",
+  "businessType": "catering",
+  "description": "Kamal Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 586,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.339Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c5"
+  },
+  "businessName": "Ladies Kitchen",
+  "businessType": "catering",
+  "description": "Ladies Kitchen is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1011,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.375Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c6"
+  },
+  "businessName": "South Express Caterers",
+  "businessType": "catering",
+  "description": "South Express Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 637,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c7"
+  },
+  "businessName": "Navin Electric Stores",
+  "businessType": "catering",
+  "description": "Navin Electric Stores is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1886,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.457Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c8"
+  },
+  "businessName": "Corporate Tiffin Services",
+  "businessType": "catering",
+  "description": "Corporate Tiffin Services is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2379,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.492Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0c9"
+  },
+  "businessName": "Shreenathaji Caterers & Management",
+  "businessType": "catering",
+  "description": "Shreenathaji Caterers & Management is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 634,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.528Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0ca"
+  },
+  "businessName": "Aannapurna The Mumma's Rasoi and Cafe By Vinayak Food",
+  "businessType": "catering",
+  "description": "Aannapurna The Mumma's Rasoi and Cafe By Vinayak Food is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 632,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.566Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0cb"
+  },
+  "businessName": "Avsar Event & Catering Service",
+  "businessType": "catering",
+  "description": "Avsar Event & Catering Service is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2319,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.599Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0cc"
+  },
+  "businessName": "Jay Caterers",
+  "businessType": "catering",
+  "description": "Jay Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2390,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0cd"
+  },
+  "businessName": "Ambica Mandap Decorators",
+  "businessType": "catering",
+  "description": "Ambica Mandap Decorators is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 795,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0ce"
+  },
+  "businessName": "VRista Events",
+  "businessType": "catering",
+  "description": "VRista Events is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 675,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0cf"
+  },
+  "businessName": "Priya Caterers",
+  "businessType": "catering",
+  "description": "Priya Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1428,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d0"
+  },
+  "businessName": "Gajanand Decorators & Caterers",
+  "businessType": "catering",
+  "description": "Gajanand Decorators & Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 666,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.765Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d1"
+  },
+  "businessName": "Shree Kshemkari Caterers",
+  "businessType": "catering",
+  "description": "Shree Kshemkari Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2053,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.826Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d2"
+  },
+  "businessName": "Vivek Decorators",
+  "businessType": "catering",
+  "description": "Vivek Decorators is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2313,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d3"
+  },
+  "businessName": "Jay Bhagwati Caterers & Light Decoration",
+  "businessType": "catering",
+  "description": "Jay Bhagwati Caterers & Light Decoration is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1957,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.918Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d4"
+  },
+  "businessName": "Maa Krupa Decorators",
+  "businessType": "catering",
+  "description": "Maa Krupa Decorators is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1369,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.954Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d5"
+  },
+  "businessName": "Sapna Caterers",
+  "businessType": "catering",
+  "description": "Sapna Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1631,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:52.992Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d6"
+  },
+  "businessName": "Aashish Caterers",
+  "businessType": "catering",
+  "description": "Aashish Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 523,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.028Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d7"
+  },
+  "businessName": "Khushali Caterers",
+  "businessType": "catering",
+  "description": "Khushali Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1687,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.074Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d8"
+  },
+  "businessName": "Marutinandan Decorators & Catering Managment",
+  "businessType": "catering",
+  "description": "Marutinandan Decorators & Catering Managment is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 767,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.161Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0d9"
+  },
+  "businessName": "SHREE GANESH DECORATION",
+  "businessType": "catering",
+  "description": "SHREE GANESH DECORATION is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2091,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.284Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0da"
+  },
+  "businessName": "Shivhari Hospitality",
+  "businessType": "catering",
+  "description": "Shivhari Hospitality is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1675,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0db"
+  },
+  "businessName": "Bhagyoday Decorators and Caterers",
+  "businessType": "catering",
+  "description": "Bhagyoday Decorators and Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2281,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0dc"
+  },
+  "businessName": "Shivam Caterers",
+  "businessType": "catering",
+  "description": "Shivam Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 747,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.573Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0dd"
+  },
+  "businessName": "Maa Sonal Caterers",
+  "businessType": "catering",
+  "description": "Maa Sonal Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1087,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0de"
+  },
+  "businessName": "Vidhata Caterers",
+  "businessType": "catering",
+  "description": "Vidhata Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2364,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.719Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0df"
+  },
+  "businessName": "S R Food Caterers",
+  "businessType": "catering",
+  "description": "S R Food Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2189,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.794Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e0"
+  },
+  "businessName": "Sri Vandan Caterers",
+  "businessType": "catering",
+  "description": "Sri Vandan Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1050,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.854Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e1"
+  },
+  "businessName": "Dine Design Caterers",
+  "businessType": "catering",
+  "description": "Dine Design Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1183,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.901Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e2"
+  },
+  "businessName": "Jalyan Caterers",
+  "businessType": "catering",
+  "description": "Jalyan Caterers is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 906,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.937Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e3"
+  },
+  "businessName": "TRUSHA CATARES",
+  "businessType": "catering",
+  "description": "TRUSHA CATARES is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2276,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:53.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e4"
+  },
+  "businessName": "Khavda Sweet & Farsan Mart",
+  "businessType": "catering",
+  "description": "Khavda Sweet & Farsan Mart is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2075,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:54.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e5"
+  },
+  "businessName": "Solo Performer",
+  "businessType": "catering",
+  "description": "Solo Performer is a premium catering service provider in Ahmedabad.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1100,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T16:59:54.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e6"
+  },
+  "businessName": "Tit Bit Culture Multi Cuisine Restaurant & Banquet Hall",
+  "businessType": "catering",
+  "description": "Tit Bit Culture Multi Cuisine Restaurant & Banquet Hall is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 865,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:20.518Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e7"
+  },
+  "businessName": "KK's Food Catering Service",
+  "businessType": "catering",
+  "description": "KK's Food Catering Service is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 955,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:20.655Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e8"
+  },
+  "businessName": "Nakul Khana Khajana (Nkk Caterers)Nakul Khana Khajana (Nkk)",
+  "businessType": "catering",
+  "description": "Nakul Khana Khajana (Nkk Caterers)Nakul Khana Khajana (Nkk) is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 859,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:20.740Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0e9"
+  },
+  "businessName": "Soni Events",
+  "businessType": "catering",
+  "description": "Soni Events is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1550,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:20.793Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0ea"
+  },
+  "businessName": "Krishna Caterers",
+  "businessType": "catering",
+  "description": "Krishna Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1686,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:20.833Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0eb"
+  },
+  "businessName": "Golden Spoon Caterers",
+  "businessType": "catering",
+  "description": "Golden Spoon Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2060,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:20.898Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0ec"
+  },
+  "businessName": "Patel and Patel Sweets and Caterers",
+  "businessType": "catering",
+  "description": "Patel and Patel Sweets and Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2333,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:20.940Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0ed"
+  },
+  "businessName": "Samir Bhathiyara and Catering Service",
+  "businessType": "catering",
+  "description": "Samir Bhathiyara and Catering Service is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1691,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:20.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0ee"
+  },
+  "businessName": "Mr Dream Events",
+  "businessType": "catering",
+  "description": "Mr Dream Events is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 621,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.015Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0ef"
+  },
+  "businessName": "Maharaj Caterers",
+  "businessType": "catering",
+  "description": "Maharaj Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2231,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.067Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0f2"
+  },
+  "businessName": "Nits Events",
+  "businessType": "catering",
+  "description": "Nits Events is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2164,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.173Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0f3"
+  },
+  "businessName": "Jmd Tourism and Logistics Corporation",
+  "businessType": "catering",
+  "description": "Jmd Tourism and Logistics Corporation is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1546,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.210Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0f4"
+  },
+  "businessName": "Shree Ghanshyam Caterers",
+  "businessType": "catering",
+  "description": "Shree Ghanshyam Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1995,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0f5"
+  },
+  "businessName": "G Dada Farsan and Surti Rasoi",
+  "businessType": "catering",
+  "description": "G Dada Farsan and Surti Rasoi is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1562,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.298Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0f6"
+  },
+  "businessName": "RatiKaka Ni Bhaji Pav & Restaurant",
+  "businessType": "catering",
+  "description": "RatiKaka Ni Bhaji Pav & Restaurant is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1977,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.346Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0f7"
+  },
+  "businessName": "Hotel Ashirwad",
+  "businessType": "catering",
+  "description": "Hotel Ashirwad is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1719,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0f8"
+  },
+  "businessName": "Neon The Disc & Banquet",
+  "businessType": "catering",
+  "description": "Neon The Disc & Banquet is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2112,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.433Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0f9"
+  },
+  "businessName": "Bismillah",
+  "businessType": "catering",
+  "description": "Bismillah is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 829,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.481Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0fa"
+  },
+  "businessName": "Ma Gayatri Caterers",
+  "businessType": "catering",
+  "description": "Ma Gayatri Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1773,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.534Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0fb"
+  },
+  "businessName": "Om Caterers",
+  "businessType": "catering",
+  "description": "Om Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1948,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.613Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0fc"
+  },
+  "businessName": "Kabir Restaurant",
+  "businessType": "catering",
+  "description": "Kabir Restaurant is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 733,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.723Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0fd"
+  },
+  "businessName": "Shree Sai Events And Catering Service",
+  "businessType": "catering",
+  "description": "Shree Sai Events And Catering Service is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2180,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.804Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0fe"
+  },
+  "businessName": "Cowboy Fast Food",
+  "businessType": "catering",
+  "description": "Cowboy Fast Food is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1917,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e0ff"
+  },
+  "businessName": "Rangat Sweets & Ice Cream",
+  "businessType": "catering",
+  "description": "Rangat Sweets & Ice Cream is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1014,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:21.975Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e100"
+  },
+  "businessName": "Asal Amdawadi Tawa Fry",
+  "businessType": "catering",
+  "description": "Asal Amdawadi Tawa Fry is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2024,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:22.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e101"
+  },
+  "businessName": "Rajbhog Ice Cream and Kulfi",
+  "businessType": "catering",
+  "description": "Rajbhog Ice Cream and Kulfi is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2412,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:22.192Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e102"
+  },
+  "businessName": "Shree Jay Jalaram Locho House",
+  "businessType": "catering",
+  "description": "Shree Jay Jalaram Locho House is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1047,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:22.316Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e103"
+  },
+  "businessName": "Ravi Mandap Service And Caterers",
+  "businessType": "catering",
+  "description": "Ravi Mandap Service And Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1166,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:22.452Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e104"
+  },
+  "businessName": "Monu Caterers",
+  "businessType": "catering",
+  "description": "Monu Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1039,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:22.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e105"
+  },
+  "businessName": "Raja Caterers",
+  "businessType": "catering",
+  "description": "Raja Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1422,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:22.744Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e106"
+  },
+  "businessName": "Pirates Voyage Restro And Wedding Lawn",
+  "businessType": "catering",
+  "description": "Pirates Voyage Restro And Wedding Lawn is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1193,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:22.870Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e107"
+  },
+  "businessName": "Kailash Caterers",
+  "businessType": "catering",
+  "description": "Kailash Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1665,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:22.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e108"
+  },
+  "businessName": "Bombay Grill",
+  "businessType": "catering",
+  "description": "Bombay Grill is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1407,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:22.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e109"
+  },
+  "businessName": "Radha Caterers & Events",
+  "businessType": "catering",
+  "description": "Radha Caterers & Events is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 849,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:23.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e10a"
+  },
+  "businessName": "Bismillah Thick Shake & Ice Cream",
+  "businessType": "catering",
+  "description": "Bismillah Thick Shake & Ice Cream is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2363,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:23.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e10b"
+  },
+  "businessName": "Kamal Chinese Food",
+  "businessType": "catering",
+  "description": "Kamal Chinese Food is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1283,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:23.198Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e10c"
+  },
+  "businessName": "Singh Saaab Di Rasoi",
+  "businessType": "catering",
+  "description": "Singh Saaab Di Rasoi is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 817,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:23.349Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e10d"
+  },
+  "businessName": "Barbecue Chicken",
+  "businessType": "catering",
+  "description": "Barbecue Chicken is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2325,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:23.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e10e"
+  },
+  "businessName": "Tulsi Sweets & Dairy",
+  "businessType": "catering",
+  "description": "Tulsi Sweets & Dairy is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1638,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:23.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e10f"
+  },
+  "businessName": "Roshni Fast Food & Juice Corner",
+  "businessType": "catering",
+  "description": "Roshni Fast Food & Juice Corner is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1449,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:23.665Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e110"
+  },
+  "businessName": "Laxmi Party Plot",
+  "businessType": "catering",
+  "description": "Laxmi Party Plot is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1884,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:23.797Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e111"
+  },
+  "businessName": "Bansuri Catering",
+  "businessType": "catering",
+  "description": "Bansuri Catering is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2446,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:23.944Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e112"
+  },
+  "businessName": "Madhuli The Family Restaurant",
+  "businessType": "catering",
+  "description": "Madhuli The Family Restaurant is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1287,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:24.080Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e113"
+  },
+  "businessName": "Royal Dine Restaurant & Banquets",
+  "businessType": "catering",
+  "description": "Royal Dine Restaurant & Banquets is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2463,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:24.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e114"
+  },
+  "businessName": "Gazi Caterers",
+  "businessType": "catering",
+  "description": "Gazi Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 541,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:24.428Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e115"
+  },
+  "businessName": "Nilam Caterers",
+  "businessType": "catering",
+  "description": "Nilam Caterers is a premium catering service provider in Surat.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1806,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:24.497Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e116"
+  },
+  "businessName": "SHETTY'S KITCHEN (Swati Enterprises)",
+  "businessType": "catering",
+  "description": "SHETTY'S KITCHEN (Swati Enterprises) is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 647,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:52.352Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e117"
+  },
+  "businessName": "Jalaram Caterers",
+  "businessType": "catering",
+  "description": "Jalaram Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1571,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:52.483Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e118"
+  },
+  "businessName": "Gypsy Grand Restaurant and Banquet",
+  "businessType": "catering",
+  "description": "Gypsy Grand Restaurant and Banquet is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 794,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:52.624Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e119"
+  },
+  "businessName": "Jay Ambe Cateres",
+  "businessType": "catering",
+  "description": "Jay Ambe Cateres is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 532,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:52.735Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e11a"
+  },
+  "businessName": "Purnima Caterers",
+  "businessType": "catering",
+  "description": "Purnima Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1060,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:52.879Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e11b"
+  },
+  "businessName": "Shreeji Event & Decor",
+  "businessType": "catering",
+  "description": "Shreeji Event & Decor is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1338,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:53.033Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e11c"
+  },
+  "businessName": "Maruti Caterers",
+  "businessType": "catering",
+  "description": "Maruti Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1387,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:53.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e11d"
+  },
+  "businessName": "Harsh Caterers",
+  "businessType": "catering",
+  "description": "Harsh Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2395,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:53.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e11e"
+  },
+  "businessName": "Jay Shree Balaji Caterers & Restaurant",
+  "businessType": "catering",
+  "description": "Jay Shree Balaji Caterers & Restaurant is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1471,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:53.326Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e11f"
+  },
+  "businessName": "Baroda Caterers",
+  "businessType": "catering",
+  "description": "Baroda Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1822,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:53.408Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e120"
+  },
+  "businessName": "Shagun Party Plot",
+  "businessType": "catering",
+  "description": "Shagun Party Plot is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2498,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:53.510Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e121"
+  },
+  "businessName": "Vrundavan Food Services",
+  "businessType": "catering",
+  "description": "Vrundavan Food Services is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1252,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:53.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e122"
+  },
+  "businessName": "Sujal Caterers",
+  "businessType": "catering",
+  "description": "Sujal Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 997,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:53.692Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e123"
+  },
+  "businessName": "Heli Catering Services",
+  "businessType": "catering",
+  "description": "Heli Catering Services is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 975,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:53.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e124"
+  },
+  "businessName": "Parth Tiffin Service",
+  "businessType": "catering",
+  "description": "Parth Tiffin Service is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1633,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:54.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e125"
+  },
+  "businessName": "Mimansa Hospitality Solutions Pvt Ltd",
+  "businessType": "catering",
+  "description": "Mimansa Hospitality Solutions Pvt Ltd is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1575,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:54.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e126"
+  },
+  "businessName": "Twinkle Caterers",
+  "businessType": "catering",
+  "description": "Twinkle Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2217,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:54.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e128"
+  },
+  "businessName": "Shree Avdhut Caterers",
+  "businessType": "catering",
+  "description": "Shree Avdhut Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2419,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:54.448Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e129"
+  },
+  "businessName": "Jp Caterers",
+  "businessType": "catering",
+  "description": "Jp Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1697,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:54.512Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e12f"
+  },
+  "businessName": "Sai Caterers",
+  "businessType": "catering",
+  "description": "Sai Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1136,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:54.808Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e130"
+  },
+  "businessName": "Shree Sitaram Daining and Catring",
+  "businessType": "catering",
+  "description": "Shree Sitaram Daining and Catring is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1372,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:54.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e131"
+  },
+  "businessName": "Mirch Masala",
+  "businessType": "catering",
+  "description": "Mirch Masala is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1320,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:54.947Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e132"
+  },
+  "businessName": "Banyan Paradise Catering",
+  "businessType": "catering",
+  "description": "Banyan Paradise Catering is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1267,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e133"
+  },
+  "businessName": "Gamthi Kathiyawadi Restaurant",
+  "businessType": "catering",
+  "description": "Gamthi Kathiyawadi Restaurant is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2446,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.165Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e134"
+  },
+  "businessName": "Dilbahar Food Catering And Services",
+  "businessType": "catering",
+  "description": "Dilbahar Food Catering And Services is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1391,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.253Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e135"
+  },
+  "businessName": "Chennai King South Corner",
+  "businessType": "catering",
+  "description": "Chennai King South Corner is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 634,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.342Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e136"
+  },
+  "businessName": "Krishna Party Plot",
+  "businessType": "catering",
+  "description": "Krishna Party Plot is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1070,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.445Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e137"
+  },
+  "businessName": "Sitaram Khaman",
+  "businessType": "catering",
+  "description": "Sitaram Khaman is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1878,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.532Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e138"
+  },
+  "businessName": "Bhaikaka Party Plot",
+  "businessType": "catering",
+  "description": "Bhaikaka Party Plot is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1924,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.606Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e139"
+  },
+  "businessName": "Varsha Exotic",
+  "businessType": "catering",
+  "description": "Varsha Exotic is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1195,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.728Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e13a"
+  },
+  "businessName": "Shree Gurukrupa Dining Hall",
+  "businessType": "catering",
+  "description": "Shree Gurukrupa Dining Hall is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1989,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.877Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e13b"
+  },
+  "businessName": "The Grand Mahi",
+  "businessType": "catering",
+  "description": "The Grand Mahi is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2198,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:55.950Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e13c"
+  },
+  "businessName": "Gayatri Fast Food",
+  "businessType": "catering",
+  "description": "Gayatri Fast Food is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1405,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.009Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e13d"
+  },
+  "businessName": "Amin Party Plot And Caterers",
+  "businessType": "catering",
+  "description": "Amin Party Plot And Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1612,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e13e"
+  },
+  "businessName": "Jalaram Foods (Industrial Catering Service And House Keeping Service)",
+  "businessType": "catering",
+  "description": "Jalaram Foods (Industrial Catering Service And House Keeping Service) is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1621,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e13f"
+  },
+  "businessName": "Baroda Sandwich",
+  "businessType": "catering",
+  "description": "Baroda Sandwich is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1198,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.325Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e140"
+  },
+  "businessName": "Grills & Gravies",
+  "businessType": "catering",
+  "description": "Grills & Gravies is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1664,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e141"
+  },
+  "businessName": "Dilliwale Chole Kulche",
+  "businessType": "catering",
+  "description": "Dilliwale Chole Kulche is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1847,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.570Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e142"
+  },
+  "businessName": "Subham Faraskhana & Caterers",
+  "businessType": "catering",
+  "description": "Subham Faraskhana & Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2035,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.659Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e143"
+  },
+  "businessName": "C R Dosa Centre",
+  "businessType": "catering",
+  "description": "C R Dosa Centre is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1932,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.734Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e144"
+  },
+  "businessName": "Sodexo Food Solutions India Pvt Ltd",
+  "businessType": "catering",
+  "description": "Sodexo Food Solutions India Pvt Ltd is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1177,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e145"
+  },
+  "businessName": "Sattva Weddings",
+  "businessType": "catering",
+  "description": "Sattva Weddings is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1880,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.890Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e146"
+  },
+  "businessName": "Siddharth Farm",
+  "businessType": "catering",
+  "description": "Siddharth Farm is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2225,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:56.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e147"
+  },
+  "businessName": "Vraj Caterers",
+  "businessType": "catering",
+  "description": "Vraj Caterers is a premium catering service provider in Vadodara.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 739,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:00:57.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e148"
+  },
+  "businessName": "Virat Caterers",
+  "businessType": "catering",
+  "description": "Virat Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2061,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:25.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e149"
+  },
+  "businessName": "Krishna Party Plot & Jay Sardar Caterers",
+  "businessType": "catering",
+  "description": "Krishna Party Plot & Jay Sardar Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1599,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:25.505Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e14a"
+  },
+  "businessName": "Impact Events",
+  "businessType": "catering",
+  "description": "Impact Events is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1520,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:25.544Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e14c"
+  },
+  "businessName": "Jain Foods",
+  "businessType": "catering",
+  "description": "Jain Foods is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2269,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:25.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e151"
+  },
+  "businessName": "Jay Bhavani Dryfruit Dish Gola",
+  "businessType": "catering",
+  "description": "Jay Bhavani Dryfruit Dish Gola is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2398,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:25.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e152"
+  },
+  "businessName": "Shubh Restaurant Banquet Hall",
+  "businessType": "catering",
+  "description": "Shubh Restaurant Banquet Hall is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1288,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:25.915Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e153"
+  },
+  "businessName": "Ghanshyam Chinez Punjabi",
+  "businessType": "catering",
+  "description": "Ghanshyam Chinez Punjabi is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1000,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:25.952Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e154"
+  },
+  "businessName": "Sholay Chicken Center (Akbar Bhai)",
+  "businessType": "catering",
+  "description": "Sholay Chicken Center (Akbar Bhai) is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1494,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:25.988Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e155"
+  },
+  "businessName": "BEST Mayur Caterers (best Bhajiya & Chat)",
+  "businessType": "catering",
+  "description": "BEST Mayur Caterers (best Bhajiya & Chat) is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1040,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.023Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e156"
+  },
+  "businessName": "Jay Bhavani Madras Cafe",
+  "businessType": "catering",
+  "description": "Jay Bhavani Madras Cafe is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1036,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e157"
+  },
+  "businessName": "Patel Vihar Restaurant (PVR)",
+  "businessType": "catering",
+  "description": "Patel Vihar Restaurant (PVR) is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2194,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.103Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e158"
+  },
+  "businessName": "Matuki Restaurant",
+  "businessType": "catering",
+  "description": "Matuki Restaurant is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2088,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.136Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e159"
+  },
+  "businessName": "Hari Om Jambu",
+  "businessType": "catering",
+  "description": "Hari Om Jambu is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2491,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.179Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e15a"
+  },
+  "businessName": "The Maggi Center",
+  "businessType": "catering",
+  "description": "The Maggi Center is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1019,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.212Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e15b"
+  },
+  "businessName": "Surbhi Food Farm Restaurant",
+  "businessType": "catering",
+  "description": "Surbhi Food Farm Restaurant is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1278,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e15c"
+  },
+  "businessName": "Aji The View Garden Restaurant",
+  "businessType": "catering",
+  "description": "Aji The View Garden Restaurant is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1399,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.299Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e15d"
+  },
+  "businessName": "Single Bite Catering Services",
+  "businessType": "catering",
+  "description": "Single Bite Catering Services is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2357,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e15e"
+  },
+  "businessName": "Maa Ni Moj Caterers",
+  "businessType": "catering",
+  "description": "Maa Ni Moj Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1865,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.402Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e15f"
+  },
+  "businessName": "Noorie Caterers",
+  "businessType": "catering",
+  "description": "Noorie Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1788,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.438Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e160"
+  },
+  "businessName": "A-1 Caterers",
+  "businessType": "catering",
+  "description": "A-1 Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1505,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.480Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e161"
+  },
+  "businessName": "Shree Satyavijay Ice Cream",
+  "businessType": "catering",
+  "description": "Shree Satyavijay Ice Cream is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1878,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e162"
+  },
+  "businessName": "Abhi Caterers",
+  "businessType": "catering",
+  "description": "Abhi Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 706,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.599Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e163"
+  },
+  "businessName": "Balaji Madras Cafe & Catering",
+  "businessType": "catering",
+  "description": "Balaji Madras Cafe & Catering is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2152,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e164"
+  },
+  "businessName": "Jk Caterers",
+  "businessType": "catering",
+  "description": "Jk Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1631,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.711Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e165"
+  },
+  "businessName": "Shree Ram Caterers",
+  "businessType": "catering",
+  "description": "Shree Ram Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 819,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.746Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e166"
+  },
+  "businessName": "Aakash Caterers",
+  "businessType": "catering",
+  "description": "Aakash Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 741,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e167"
+  },
+  "businessName": "Zayka Restaurant and Resort",
+  "businessType": "catering",
+  "description": "Zayka Restaurant and Resort is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1077,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.812Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e168"
+  },
+  "businessName": "Jbees",
+  "businessType": "catering",
+  "description": "Jbees is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 767,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.843Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e169"
+  },
+  "businessName": "Kathiyawadi Dhaba & Family Restaurant",
+  "businessType": "catering",
+  "description": "Kathiyawadi Dhaba & Family Restaurant is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1310,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.876Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e16a"
+  },
+  "businessName": "Sukun Caterers",
+  "businessType": "catering",
+  "description": "Sukun Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 758,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.911Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e16b"
+  },
+  "businessName": "Laddu Gopal Shak Rotla",
+  "businessType": "catering",
+  "description": "Laddu Gopal Shak Rotla is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 909,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.946Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e16c"
+  },
+  "businessName": "Parivar Catres Service",
+  "businessType": "catering",
+  "description": "Parivar Catres Service is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 996,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:26.982Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e16e"
+  },
+  "businessName": "Bharmal Caterers",
+  "businessType": "catering",
+  "description": "Bharmal Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1829,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.112Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e16f"
+  },
+  "businessName": "Rushi Madras Cafe",
+  "businessType": "catering",
+  "description": "Rushi Madras Cafe is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1409,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.153Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e170"
+  },
+  "businessName": "Anand Snacks",
+  "businessType": "catering",
+  "description": "Anand Snacks is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1880,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.192Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e171"
+  },
+  "businessName": "Shri Savariya Bhojnalay",
+  "businessType": "catering",
+  "description": "Shri Savariya Bhojnalay is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 552,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.228Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e172"
+  },
+  "businessName": "Azad Hind Golawala",
+  "businessType": "catering",
+  "description": "Azad Hind Golawala is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 870,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.289Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e173"
+  },
+  "businessName": "Gondal Self Drive",
+  "businessType": "catering",
+  "description": "Gondal Self Drive is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2295,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e174"
+  },
+  "businessName": "The Orange Club Party Lawn",
+  "businessType": "catering",
+  "description": "The Orange Club Party Lawn is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1101,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.383Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e175"
+  },
+  "businessName": "A1 Caterers",
+  "businessType": "catering",
+  "description": "A1 Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 588,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.421Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e176"
+  },
+  "businessName": "Jay Shankar Panipuri & Dalpakwan",
+  "businessType": "catering",
+  "description": "Jay Shankar Panipuri & Dalpakwan is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2468,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.459Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e177"
+  },
+  "businessName": "Madhur Caterers",
+  "businessType": "catering",
+  "description": "Madhur Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1123,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e178"
+  },
+  "businessName": "Raj Restaurant",
+  "businessType": "catering",
+  "description": "Raj Restaurant is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 1286,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.524Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69d0f68f43964c0cf4c7e179"
+  },
+  "businessName": "Jay Sardar Restaurants & Caterers",
+  "businessType": "catering",
+  "description": "Jay Sardar Restaurants & Caterers is a premium catering service provider in Rajkot.",
+  "address": {
+    "country": "India"
+  },
+  "pricing": {
+    "startingPrice": 2478,
+    "pricingType": "Per Plate"
+  },
+  "services": [
+    "Buffet",
+    "Live Counter"
+  ],
+  "images": [
+    "https://source.unsplash.com/800x600/?catering,wedding"
+  ],
+  "availability": {
+    "available": true,
+    "bookedDates": []
+  },
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "createdAt": {
+    "$date": "2026-04-04T17:01:27.554Z"
+  }
+}]
