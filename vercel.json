@@ -1,5 +1,5 @@
 {
-  "experimentalServices": {
+  "services": {
     "frontend": {
       "root": "frontend",
       "routePrefix": "/",
@@ -9,7 +9,7 @@
       "root": "backend",
       "routePrefix": "/_/backend",
       "entrypoint": "index.js",
-      "runtime": "nodejs"
+      "builder": "@vercel/node"
     }
   }
 }
